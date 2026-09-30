@@ -1,0 +1,673 @@
+- generic [active] [ref=f25e1]:
+  - banner [ref=f25e2]:
+    - navigation [ref=f25e3]:
+      - generic [ref=f25e4]:
+        - link [ref=f25e5] [cursor=pointer]:
+          - /url: /
+          - img [ref=f25e7]:
+            - generic "Test Pages" [ref=f25e10]
+            - generic "PRACTICE SOFTWARE TESTING" [ref=f25e11]
+        - list [ref=f25e13]:
+          - listitem [ref=f25e14]:
+            - link "Pages" [ref=f25e15] [cursor=pointer]:
+              - /url: /pages/
+          - listitem [ref=f25e16]:
+            - link "Apps" [ref=f25e17] [cursor=pointer]:
+              - /url: /apps/
+          - listitem [ref=f25e18]:
+            - link "Fun and Games" [ref=f25e19] [cursor=pointer]:
+              - /url: /fun-and-games/
+          - listitem [ref=f25e20]:
+            - link "Tools" [ref=f25e21] [cursor=pointer]:
+              - /url: /tools/
+          - listitem [ref=f25e22]:
+            - link "Challenges" [ref=f25e23] [cursor=pointer]:
+              - /url: /challenges/
+          - listitem [ref=f25e24]:
+            - link "Reference Information and Tutorials" [ref=f25e25] [cursor=pointer]:
+              - /url: /reference/
+    - generic [ref=f25e26]:
+      - text: Support this site by joining our Patreon. For as little as $1 a month you receive exclusive ad-free content, ebooks and online training courses. —
+      - link "Learn more" [ref=f25e27] [cursor=pointer]:
+        - /url: https://patreon.com/eviltester
+  - generic [ref=f25e28]:
+    - generic [ref=f25e30]:
+      - complementary [ref=f25e31]:
+        - generic [ref=f25e32]:
+          - text: 
+          - navigation [ref=f25e33]:
+            - list [ref=f25e34]:
+              - listitem [ref=f25e35]:
+                - link "Practice Pages" [ref=f25e36] [cursor=pointer]:
+                  - /url: /
+                - list [ref=f25e37]:
+                  - listitem [ref=f25e38]:
+                    - generic [ref=f25e39]:
+                      - text: 
+                      - link "Pages" [ref=f25e40] [cursor=pointer]:
+                        - /url: /pages/
+                    - text:                                                                   
+                  - listitem [ref=f25e41]:
+                    - generic [ref=f25e42]:
+                      - text: 
+                      - link "Apps" [ref=f25e43] [cursor=pointer]:
+                        - /url: /apps/
+                    - list [ref=f25e44]:
+                      - listitem [ref=f25e45]:
+                        - generic [ref=f25e46]:
+                          - text: 
+                          - link "Triangle" [ref=f25e47] [cursor=pointer]:
+                            - /url: /apps/triangle/
+                      - listitem [ref=f25e48]:
+                        - generic [ref=f25e49]:
+                          - text: 
+                          - link "7 Char Val" [ref=f25e50] [cursor=pointer]:
+                            - /url: /apps/7-char-val/
+                      - listitem [ref=f25e51]:
+                        - generic [ref=f25e52]:
+                          - text: 
+                          - link "Shopping Cart" [ref=f25e53] [cursor=pointer]:
+                            - /url: /apps/basiccart/
+                      - listitem [ref=f25e54]:
+                        - generic [ref=f25e55]:
+                          - text: 
+                          - link "AI Chat Bot" [ref=f25e56] [cursor=pointer]:
+                            - /url: /apps/ai-chat-bot/
+                      - listitem [ref=f25e57]:
+                        - generic [ref=f25e58]:
+                          - text: 
+                          - link "Button Calculator" [ref=f25e59] [cursor=pointer]:
+                            - /url: /apps/button-calculator/
+                      - listitem [ref=f25e60]:
+                        - generic [ref=f25e61]:
+                          - text: 
+                          - link "Canvas Draw" [ref=f25e62] [cursor=pointer]:
+                            - /url: /apps/canvas-draw/
+                      - listitem [ref=f25e63]:
+                        - generic [ref=f25e64]:
+                          - text: 
+                          - link "Canvas Scribble" [ref=f25e65] [cursor=pointer]:
+                            - /url: /apps/canvas-scribble/
+                      - listitem [ref=f25e66]:
+                        - generic [ref=f25e67]:
+                          - text: 
+                          - link "Validated Client Server Form" [ref=f25e68] [cursor=pointer]:
+                            - /url: /apps/client-server-form-validation/
+                      - listitem [ref=f25e69]:
+                        - generic [ref=f25e70]:
+                          - text: 
+                          - link "HTML Table Generator" [ref=f25e71] [cursor=pointer]:
+                            - /url: /apps/html-table-generator/
+                      - listitem [ref=f25e72]:
+                        - generic [ref=f25e73]:
+                          - text: 
+                          - link "Grammar Data Gen" [ref=f25e74] [cursor=pointer]:
+                            - /url: /apps/grammar-data-gen/
+                      - listitem [ref=f25e75]:
+                        - generic [ref=f25e76]:
+                          - text: 
+                          - link "Countdown Timer" [ref=f25e77] [cursor=pointer]:
+                            - /url: /apps/countdown-timer/
+                      - listitem [ref=f25e78]:
+                        - generic [ref=f25e79]:
+                          - text: 
+                          - link "Server Side Calculator" [ref=f25e80] [cursor=pointer]:
+                            - /url: /apps/server-side-calculator/
+                      - listitem [ref=f25e81]:
+                        - generic [ref=f25e82]:
+                          - text: 
+                          - link "Simple Calculator API" [ref=f25e83] [cursor=pointer]:
+                            - /url: /apps/calculator-api/
+                        - list [ref=f25e84]:
+                          - listitem [ref=f25e85]:
+                            - link "Form UI" [ref=f25e87] [cursor=pointer]:
+                              - /url: /apps/calculator-api/form-calculator/
+                          - listitem [ref=f25e88]:
+                            - link "Swagger UI" [ref=f25e90] [cursor=pointer]:
+                              - /url: /apps/calculator-api/swagger/
+                          - listitem [ref=f25e91]:
+                            - link "Redoc UI" [ref=f25e93] [cursor=pointer]:
+                              - /url: /apps/calculator-api/redoc/
+                          - listitem [ref=f25e94]:
+                            - link "Instructions" [ref=f25e96] [cursor=pointer]:
+                              - /url: /apps/calculator-api/calculator-api-instructions/
+                      - listitem [ref=f25e97]:
+                        - generic [ref=f25e98]:
+                          - text: 
+                          - link "Text Transformer" [ref=f25e99] [cursor=pointer]:
+                            - /url: /apps/text-transformer/
+                      - listitem [ref=f25e100]:
+                        - generic [ref=f25e101]:
+                          - text: 
+                          - link "Cookie Controlled Login" [ref=f25e102] [cursor=pointer]:
+                            - /url: /apps/simulated-login/
+                      - listitem [ref=f25e103]:
+                        - generic [ref=f25e104]:
+                          - text: 
+                          - link "Numbers to Text" [ref=f25e105] [cursor=pointer]:
+                            - /url: /apps/numbers-to-text/
+                      - listitem [ref=f25e106]:
+                        - generic [ref=f25e107]:
+                          - text: 
+                          - link "Note Taker" [ref=f25e108] [cursor=pointer]:
+                            - /url: /apps/note-taker/
+                      - listitem [ref=f25e109]:
+                        - generic [ref=f25e110]:
+                          - text: 
+                          - link "E-Primer" [ref=f25e111] [cursor=pointer]:
+                            - /url: /apps/e-primer/
+                      - listitem [ref=f25e112]:
+                        - generic [ref=f25e113]:
+                          - text: 
+                          - link "Simple TODO List" [ref=f25e114] [cursor=pointer]:
+                            - /url: /apps/simple-todo-list/
+                  - listitem [ref=f25e115]:
+                    - generic [ref=f25e116]:
+                      - text: 
+                      - link "Fun and Games" [ref=f25e117] [cursor=pointer]:
+                        - /url: /fun-and-games/
+                    - text:             
+                  - listitem [ref=f25e118]:
+                    - generic [ref=f25e119]:
+                      - text: 
+                      - link "Tools" [ref=f25e120] [cursor=pointer]:
+                        - /url: /tools/
+                    - text:   
+                  - listitem [ref=f25e121]:
+                    - generic [ref=f25e122]:
+                      - text: 
+                      - link "Challenges" [ref=f25e123] [cursor=pointer]:
+                        - /url: /challenges/
+                    - text:             
+                  - listitem [ref=f25e124]:
+                    - generic [ref=f25e125]:
+                      - text: 
+                      - link "Reference Information and Tutorials" [ref=f25e126] [cursor=pointer]:
+                        - /url: /reference/
+                    - text:   
+      - complementary [ref=f25e127]:
+        - navigation [ref=f25e130]:
+          - list [ref=f25e131]:
+            - listitem [ref=f25e132]:
+              - link "Calculate" [ref=f25e133] [cursor=pointer]:
+                - /url: "#calculate"
+              - list [ref=f25e134]:
+                - listitem [ref=f25e135]:
+                  - link "Form Encoded Payload" [ref=f25e136] [cursor=pointer]:
+                    - /url: "#form-encoded-payload"
+                - listitem [ref=f25e137]:
+                  - link "JSON Payload" [ref=f25e138] [cursor=pointer]:
+                    - /url: "#json-payload"
+                - listitem [ref=f25e139]:
+                  - link "Query Format" [ref=f25e140] [cursor=pointer]:
+                    - /url: "#query-format"
+            - listitem [ref=f25e141]:
+              - link "JSON response" [ref=f25e142] [cursor=pointer]:
+                - /url: "#json-response"
+              - list [ref=f25e143]:
+                - listitem [ref=f25e144]:
+                  - link "Success" [ref=f25e145] [cursor=pointer]:
+                    - /url: "#success"
+                - listitem [ref=f25e146]:
+                  - link "Error" [ref=f25e147] [cursor=pointer]:
+                    - /url: "#error"
+            - listitem [ref=f25e148]:
+              - link "Sequence" [ref=f25e149] [cursor=pointer]:
+                - /url: "#sequence"
+        - generic [ref=f25e150]:
+          - paragraph [ref=f25e151]: Support this site by joining our Patreon. As little as $1 a month, and you receive exclusive content, ebooks and videos.
+          - paragraph [ref=f25e152]:
+            - link "Learn More" [ref=f25e153] [cursor=pointer]:
+              - /url: https://patreon.com/eviltester
+        - generic [ref=f25e154]:
+          - paragraph [ref=f25e155]: Tag Cloud
+          - list [ref=f25e156]:
+            - listitem [ref=f25e157]:
+              - link "AI 1" [ref=f25e158] [cursor=pointer]:
+                - /url: /tags/ai/
+                - text: AI
+                - generic [ref=f25e159]: "1"
+            - listitem [ref=f25e160]:
+              - link "Alerts 2" [ref=f25e161] [cursor=pointer]:
+                - /url: /tags/alerts/
+                - text: Alerts
+                - generic [ref=f25e162]: "2"
+            - listitem [ref=f25e163]:
+              - link "API 21" [ref=f25e164] [cursor=pointer]:
+                - /url: /tags/api/
+                - text: API
+                - generic [ref=f25e165]: "21"
+            - listitem [ref=f25e166]:
+              - link "Attributes 2" [ref=f25e167] [cursor=pointer]:
+                - /url: /tags/attributes/
+                - text: Attributes
+                - generic [ref=f25e168]: "2"
+            - listitem [ref=f25e169]:
+              - link "Authentication 3" [ref=f25e170] [cursor=pointer]:
+                - /url: /tags/authentication/
+                - text: Authentication
+                - generic [ref=f25e171]: "3"
+            - listitem [ref=f25e172]:
+              - link "Automating 3" [ref=f25e173] [cursor=pointer]:
+                - /url: /tags/automating/
+                - text: Automating
+                - generic [ref=f25e174]: "3"
+            - listitem [ref=f25e175]:
+              - link "Canvas 3" [ref=f25e176] [cursor=pointer]:
+                - /url: /tags/canvas/
+                - text: Canvas
+                - generic [ref=f25e177]: "3"
+            - listitem [ref=f25e178]:
+              - link "Components 1" [ref=f25e179] [cursor=pointer]:
+                - /url: /tags/components/
+                - text: Components
+                - generic [ref=f25e180]: "1"
+            - listitem [ref=f25e181]:
+              - link "Cookies 3" [ref=f25e182] [cursor=pointer]:
+                - /url: /tags/cookies/
+                - text: Cookies
+                - generic [ref=f25e183]: "3"
+            - listitem [ref=f25e184]:
+              - link "CSS 4" [ref=f25e185] [cursor=pointer]:
+                - /url: /tags/css/
+                - text: CSS
+                - generic [ref=f25e186]: "4"
+            - listitem [ref=f25e187]:
+              - link "Elements 20" [ref=f25e188] [cursor=pointer]:
+                - /url: /tags/elements/
+                - text: Elements
+                - generic [ref=f25e189]: "20"
+            - listitem [ref=f25e190]:
+              - link "Errors 4" [ref=f25e191] [cursor=pointer]:
+                - /url: /tags/errors/
+                - text: Errors
+                - generic [ref=f25e192]: "4"
+            - listitem [ref=f25e193]:
+              - link "Exploratory Testing 74" [ref=f25e194] [cursor=pointer]:
+                - /url: /tags/exploratory-testing/
+                - text: Exploratory Testing
+                - generic [ref=f25e195]: "74"
+            - listitem [ref=f25e196]:
+              - link "Files 2" [ref=f25e197] [cursor=pointer]:
+                - /url: /tags/files/
+                - text: Files
+                - generic [ref=f25e198]: "2"
+            - listitem [ref=f25e199]:
+              - link "Forms 8" [ref=f25e200] [cursor=pointer]:
+                - /url: /tags/forms/
+                - text: Forms
+                - generic [ref=f25e201]: "8"
+            - listitem [ref=f25e202]:
+              - link "Frames 4" [ref=f25e203] [cursor=pointer]:
+                - /url: /tags/frames/
+                - text: Frames
+                - generic [ref=f25e204]: "4"
+            - listitem [ref=f25e205]:
+              - link "Games 18" [ref=f25e206] [cursor=pointer]:
+                - /url: /tags/games/
+                - text: Games
+                - generic [ref=f25e207]: "18"
+            - listitem [ref=f25e208]:
+              - link "Hover 1" [ref=f25e209] [cursor=pointer]:
+                - /url: /tags/hover/
+                - text: Hover
+                - generic [ref=f25e210]: "1"
+            - listitem [ref=f25e211]:
+              - link "HTML 1" [ref=f25e212] [cursor=pointer]:
+                - /url: /tags/html/
+                - text: HTML
+                - generic [ref=f25e213]: "1"
+            - listitem [ref=f25e214]:
+              - link "HTTP 1" [ref=f25e215] [cursor=pointer]:
+                - /url: /tags/http/
+                - text: HTTP
+                - generic [ref=f25e216]: "1"
+            - listitem [ref=f25e217]:
+              - link "Images 1" [ref=f25e218] [cursor=pointer]:
+                - /url: /tags/images/
+                - text: Images
+                - generic [ref=f25e219]: "1"
+            - listitem [ref=f25e220]:
+              - link "Input 7" [ref=f25e221] [cursor=pointer]:
+                - /url: /tags/input/
+                - text: Input
+                - generic [ref=f25e222]: "7"
+            - listitem [ref=f25e223]:
+              - link "Interaction 49" [ref=f25e224] [cursor=pointer]:
+                - /url: /tags/interaction/
+                - text: Interaction
+                - generic [ref=f25e225]: "49"
+            - listitem [ref=f25e226]:
+              - link "Java 1" [ref=f25e227] [cursor=pointer]:
+                - /url: /tags/java/
+                - text: Java
+                - generic [ref=f25e228]: "1"
+            - listitem [ref=f25e229]:
+              - link "JavaScript 63" [ref=f25e230] [cursor=pointer]:
+                - /url: /tags/javascript/
+                - text: JavaScript
+                - generic [ref=f25e231]: "63"
+            - listitem [ref=f25e232]:
+              - link "JSON 1" [ref=f25e233] [cursor=pointer]:
+                - /url: /tags/json/
+                - text: JSON
+                - generic [ref=f25e234]: "1"
+            - listitem [ref=f25e235]:
+              - link "Local Storage 1" [ref=f25e236] [cursor=pointer]:
+                - /url: /tags/local-storage/
+                - text: Local Storage
+                - generic [ref=f25e237]: "1"
+            - listitem [ref=f25e238]:
+              - link "Locators 19" [ref=f25e239] [cursor=pointer]:
+                - /url: /tags/locators/
+                - text: Locators
+                - generic [ref=f25e240]: "19"
+            - listitem [ref=f25e241]:
+              - link "Mobile 1" [ref=f25e242] [cursor=pointer]:
+                - /url: /tags/mobile/
+                - text: Mobile
+                - generic [ref=f25e243]: "1"
+            - listitem [ref=f25e244]:
+              - link "Navigation 7" [ref=f25e245] [cursor=pointer]:
+                - /url: /tags/navigation/
+                - text: Navigation
+                - generic [ref=f25e246]: "7"
+            - listitem [ref=f25e247]:
+              - link "Randomness 1" [ref=f25e248] [cursor=pointer]:
+                - /url: /tags/randomness/
+                - text: Randomness
+                - generic [ref=f25e249]: "1"
+            - listitem [ref=f25e250]:
+              - link "Security Testing 1" [ref=f25e251] [cursor=pointer]:
+                - /url: /tags/security-testing/
+                - text: Security Testing
+                - generic [ref=f25e252]: "1"
+            - listitem [ref=f25e253]:
+              - link "Shadow Dom 3" [ref=f25e254] [cursor=pointer]:
+                - /url: /tags/shadow-dom/
+                - text: Shadow Dom
+                - generic [ref=f25e255]: "3"
+            - listitem [ref=f25e256]:
+              - link "Storage 5" [ref=f25e257] [cursor=pointer]:
+                - /url: /tags/storage/
+                - text: Storage
+                - generic [ref=f25e258]: "5"
+            - listitem [ref=f25e259]:
+              - link "Synchronization 12" [ref=f25e260] [cursor=pointer]:
+                - /url: /tags/synchronization/
+                - text: Synchronization
+                - generic [ref=f25e261]: "12"
+            - listitem [ref=f25e262]:
+              - link "Table 2" [ref=f25e263] [cursor=pointer]:
+                - /url: /tags/table/
+                - text: Table
+                - generic [ref=f25e264]: "2"
+            - listitem [ref=f25e265]:
+              - link "Test Data 2" [ref=f25e266] [cursor=pointer]:
+                - /url: /tags/test-data/
+                - text: Test Data
+                - generic [ref=f25e267]: "2"
+            - listitem [ref=f25e268]:
+              - link "Text 4" [ref=f25e269] [cursor=pointer]:
+                - /url: /tags/text/
+                - text: Text
+                - generic [ref=f25e270]: "4"
+            - listitem [ref=f25e271]:
+              - link "Tool 3" [ref=f25e272] [cursor=pointer]:
+                - /url: /tags/tool/
+                - text: Tool
+                - generic [ref=f25e273]: "3"
+            - listitem [ref=f25e274]:
+              - link "WebDriver 2" [ref=f25e275] [cursor=pointer]:
+                - /url: /tags/webdriver/
+                - text: WebDriver
+                - generic [ref=f25e276]: "2"
+        - generic [ref=f25e277]:
+          - paragraph [ref=f25e278]: Categories
+          - list [ref=f25e279]:
+            - listitem [ref=f25e280]:
+              - link "Advanced 11" [ref=f25e281] [cursor=pointer]:
+                - /url: /categories/advanced/
+                - text: Advanced
+                - generic [ref=f25e282]: "11"
+            - listitem [ref=f25e283]:
+              - link "Basics 22" [ref=f25e284] [cursor=pointer]:
+                - /url: /categories/basics/
+                - text: Basics
+                - generic [ref=f25e285]: "22"
+            - listitem [ref=f25e286]:
+              - link "Buggy Game 17" [ref=f25e287] [cursor=pointer]:
+                - /url: /categories/buggy-game/
+                - text: Buggy Game
+                - generic [ref=f25e288]: "17"
+            - listitem [ref=f25e289]:
+              - link "Challenges 12" [ref=f25e290] [cursor=pointer]:
+                - /url: /categories/challenges/
+                - text: Challenges
+                - generic [ref=f25e291]: "12"
+            - listitem [ref=f25e292]:
+              - link "Fun and Games 19" [ref=f25e293] [cursor=pointer]:
+                - /url: /categories/fun-and-games/
+                - text: Fun and Games
+                - generic [ref=f25e294]: "19"
+            - listitem [ref=f25e295]:
+              - link "Intermediate 17" [ref=f25e296] [cursor=pointer]:
+                - /url: /categories/intermediate/
+                - text: Intermediate
+                - generic [ref=f25e297]: "17"
+            - listitem [ref=f25e298]:
+              - link "Micro App 33" [ref=f25e299] [cursor=pointer]:
+                - /url: /categories/micro-app/
+                - text: Micro App
+                - generic [ref=f25e300]: "33"
+            - listitem [ref=f25e301]:
+              - link "Reference 6" [ref=f25e302] [cursor=pointer]:
+                - /url: /categories/reference/
+                - text: Reference
+                - generic [ref=f25e303]: "6"
+            - listitem [ref=f25e304]:
+              - link "Tool 3" [ref=f25e305] [cursor=pointer]:
+                - /url: /categories/tool/
+                - text: Tool
+                - generic [ref=f25e306]: "3"
+      - main [ref=f25e307]:
+        - navigation "breadcrumb" [ref=f25e308]:
+          - list [ref=f25e309]:
+            - listitem [ref=f25e310]:
+              - link "Apps" [ref=f25e311] [cursor=pointer]:
+                - /url: /apps/
+            - listitem [ref=f25e312]: / Simple Calculator API
+        - generic [ref=f25e313]:
+          - heading "Simple Calculator API" [level=1] [ref=f25e314]
+          - generic [ref=f25e315]:
+            - generic [ref=f25e316]:
+              - paragraph [ref=f25e317]: "Tags:"
+              - list [ref=f25e318]:
+                - listitem [ref=f25e319]:
+                  - link "Exploratory Testing" [ref=f25e320] [cursor=pointer]:
+                    - /url: https://testpages.eviltester.com/tags/exploratory-testing/
+                - listitem [ref=f25e321]:
+                  - link "API" [ref=f25e322] [cursor=pointer]:
+                    - /url: https://testpages.eviltester.com/tags/api/
+            - generic [ref=f25e323]:
+              - paragraph [ref=f25e324]: "Categories:"
+              - list [ref=f25e325]:
+                - listitem [ref=f25e326]:
+                  - link "Micro App" [ref=f25e327] [cursor=pointer]:
+                    - /url: https://testpages.eviltester.com/categories/micro-app/
+          - paragraph [ref=f25e329]: This is a simple API which can also be used by the amended Simple Calculator.
+          - separator [ref=f25e330]
+          - paragraph [ref=f25e331]: You may want to use an API tool for testing the API.
+          - paragraph [ref=f25e332]: We have provided both a Swagger UI and a redoc UI here to access the API but these may not provide the full flexibility you need to test an API.
+          - paragraph [ref=f25e333]:
+            - text: The API has an
+            - link "Open API" [ref=f25e334] [cursor=pointer]:
+              - /url: https://www.openapis.org/
+            - text: file
+          - list [ref=f25e335]:
+            - listitem [ref=f25e336]:
+              - link "openapi/calculator.yaml" [ref=f25e337] [cursor=pointer]:
+                - /url: /openapi/calculator-test.yaml
+          - paragraph [ref=f25e338]: "The API can be found at:"
+          - list [ref=f25e339]:
+            - listitem [ref=f25e340]:
+              - code [ref=f25e341]: /apps/api/calculator/
+          - paragraph [ref=f25e342]: "There are two endpoints:"
+          - list [ref=f25e343]:
+            - listitem [ref=f25e344]:
+              - code [ref=f25e345]: calculate
+              - list [ref=f25e346]:
+                - listitem [ref=f25e347]: to calculate the result of a single operation (plus, minus, times, divide)
+            - listitem [ref=f25e348]:
+              - code [ref=f25e349]: sequence
+              - list [ref=f25e350]:
+                - listitem [ref=f25e351]: to calculate the result of a sequence of operations where the result of the previous sequence is fed through into the next operation.
+          - heading "Calculate" [level=2] [ref=f25e352]
+          - paragraph [ref=f25e353]:
+            - text: The
+            - code [ref=f25e354]: calculate
+            - text: "end point:"
+          - list [ref=f25e355]:
+            - listitem [ref=f25e356]:
+              - code [ref=f25e357]: /apps/api/calculator/calculate
+          - paragraph [ref=f25e358]:
+            - text: Accepts
+            - code [ref=f25e359]: POST
+            - text: and
+            - code [ref=f25e360]: GET
+            - text: requests.
+          - paragraph [ref=f25e361]:
+            - text: These can be either
+            - code [ref=f25e362]: application/json
+            - text: or
+            - code [ref=f25e363]: application/x-www-form-urlencoded
+          - heading "Form Encoded Payload" [level=3] [ref=f25e364]
+          - paragraph [ref=f25e365]:
+            - text: If using the
+            - code [ref=f25e366]: application/x-www-form-urlencoded
+            - text: "content then the parameters are the same as those used by the Simple Calculator application:"
+          - list [ref=f25e367]:
+            - listitem [ref=f25e368]:
+              - code [ref=f25e369]: number1
+            - listitem [ref=f25e370]:
+              - code [ref=f25e371]: number2
+            - listitem [ref=f25e372]:
+              - code [ref=f25e373]: function
+          - heading "JSON Payload" [level=3] [ref=f25e374]
+          - paragraph [ref=f25e375]: "If using the JSON format then use the following format:"
+          - code [ref=f25e377]: "{ \"operation\": \"plus\", \"left\": \"1\", \"right\": \"2\" }"
+          - heading "Operands input format" [level=4] [ref=f25e378]
+          - paragraph [ref=f25e379]: "There is also an additional input format, instead of supplying a left and right value, supply a list of operands:"
+          - code [ref=f25e381]: "{ \"operation\": \"plus\", \"operands\": [ \"1\", \"2\", \"3\"] }"
+          - heading "Query Format" [level=3] [ref=f25e382]
+          - paragraph [ref=f25e383]:
+            - text: For a
+            - code [ref=f25e384]: GET
+            - text: "request, the values need to be encoded into the request as query params:"
+          - paragraph [ref=f25e385]:
+            - text: e.g.
+            - code [ref=f25e386]: .../calculate?operation=plus&left=1&right=2
+          - paragraph [ref=f25e387]: "Params:"
+          - list [ref=f25e388]:
+            - listitem [ref=f25e389]:
+              - code [ref=f25e390]: operation
+              - text: e.g.
+              - code [ref=f25e391]: plus
+              - text: ","
+              - code [ref=f25e392]: minus
+              - text: ", etc."
+            - listitem [ref=f25e393]:
+              - code [ref=f25e394]: left
+              - text: e.g. 1
+            - listitem [ref=f25e395]:
+              - code [ref=f25e396]: right
+              - text: e.g. 2
+            - listitem [ref=f25e397]:
+              - code [ref=f25e398]: operands
+              - text: e.g.
+              - code [ref=f25e399]: "[1, 2]"
+          - heading "JSON response" [level=2] [ref=f25e400]
+          - heading "Success" [level=3] [ref=f25e401]
+          - paragraph [ref=f25e402]: "The above would add 1 and 2 and respond with:"
+          - code [ref=f25e404]: "{ \"type\": \"VALUE\", \"value\": \"3\" }"
+          - heading "Error" [level=3] [ref=f25e405]
+          - paragraph [ref=f25e406]: "Any errors result in an error response:"
+          - code [ref=f25e408]: "{ \"type\": \"INPUT_ERROR\", \"value\": \"Unrecognised Operation: add valid values are (plus, times, minus, divide)\" }"
+          - heading "Sequence" [level=2] [ref=f25e409]
+          - paragraph [ref=f25e410]:
+            - text: The
+            - code [ref=f25e411]: sequence
+            - text: "end point:"
+          - list [ref=f25e412]:
+            - listitem [ref=f25e413]:
+              - code [ref=f25e414]: /apps/api/calculator/sequence
+          - paragraph [ref=f25e415]:
+            - text: Accepts
+            - code [ref=f25e416]: POST
+            - text: requests.
+          - paragraph [ref=f25e417]:
+            - text: These can be
+            - code [ref=f25e418]: application/json
+          - paragraph [ref=f25e419]:
+            - text: To calculate
+            - code [ref=f25e420]: (4 - 1) * 3
+            - text: ":"
+          - code [ref=f25e422]: "{\"operations\": [ { \"operation\": \"plus\", \"right\": 4 }, { \"operation\": \"minus\", \"right\": \"1\" }, { \"operation\": \"times\", \"right\": 3 } ]}"
+          - paragraph [ref=f25e423]: "would result in:"
+          - code [ref=f25e425]: "{ \"type\": \"VALUE\", \"value\": \"9\" }"
+          - generic [ref=f25e426]:
+            - separator [ref=f25e427]
+            - generic [ref=f25e428]:
+              - paragraph [ref=f25e429]:
+                - link "Server Side Calculator Using API" [ref=f25e430] [cursor=pointer]:
+                  - /url: /apps/calculator-api/form-calculator/
+              - paragraph [ref=f25e431]: A simple calculator UI submits form to server to calculate the result.
+            - generic [ref=f25e432]:
+              - paragraph [ref=f25e433]:
+                - link "Simple Calculator API - Swagger UI" [ref=f25e434] [cursor=pointer]:
+                  - /url: /apps/calculator-api/swagger/
+              - paragraph [ref=f25e435]: A simple calculator API
+            - generic [ref=f25e436]:
+              - paragraph [ref=f25e437]:
+                - link "Simple Calculator API - Redoc UI" [ref=f25e438] [cursor=pointer]:
+                  - /url: /apps/calculator-api/redoc/
+              - paragraph [ref=f25e439]: A simple calculator API with the UI rendered using Redoc
+            - generic [ref=f25e440]:
+              - paragraph [ref=f25e441]:
+                - link "Calculator API - Instructions" [ref=f25e442] [cursor=pointer]:
+                  - /url: /apps/calculator-api/calculator-api-instructions/
+              - paragraph
+    - contentinfo [ref=f25e443]:
+      - generic [ref=f25e444]:
+        - paragraph [ref=f25e445]:
+          - text: Help keep this site free by joining our
+          - link "Patreon Membership site" [ref=f25e446] [cursor=pointer]:
+            - /url: https://patreon.com/eviltester
+          - text: . Membership costs as little as $1 a month and includes access to exclusive
+          - link "e-books and online training courses" [ref=f25e447] [cursor=pointer]:
+            - /url: https://www.testerhq.com/
+          - text: .
+        - paragraph [ref=f25e448]:
+          - text: If you'd like to see your advertising message here or learn about corporate sponsorship then
+          - link "Contact Us" [ref=f25e449] [cursor=pointer]:
+            - /url: https://linkedin.com/in/eviltester
+          - text: .
+      - generic [ref=f25e451]:
+        - list [ref=f25e453]:
+          - listitem "Twitter" [ref=f25e454]:
+            - link "Twitter" [ref=f25e455] [cursor=pointer]:
+              - /url: https://twitter.com/eviltester
+              - generic [ref=f25e456]: 
+          - listitem "LinkedIn" [ref=f25e457]:
+            - link "LinkedIn" [ref=f25e458] [cursor=pointer]:
+              - /url: https://linkedin.com/in/eviltester
+              - generic [ref=f25e459]: 
+        - list [ref=f25e461]:
+          - listitem "GitHub" [ref=f25e462]:
+            - link "GitHub" [ref=f25e463] [cursor=pointer]:
+              - /url: https://github.com/eviltester
+              - generic [ref=f25e464]: 
+        - generic [ref=f25e465]:
+          - generic [ref=f25e466]: © 2025–2026 Compendium Developments Ltd
+          - link "Privacy Policy" [ref=f25e468] [cursor=pointer]:
+            - /url: https://www.eviltester.com/page/privacy/

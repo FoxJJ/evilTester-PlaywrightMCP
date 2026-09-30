@@ -1,0 +1,560 @@
+- generic [active] [ref=f4e1]:
+  - banner [ref=f4e2]:
+    - navigation [ref=f4e3]:
+      - generic [ref=f4e4]:
+        - link [ref=f4e5] [cursor=pointer]:
+          - /url: /
+          - img [ref=f4e7]:
+            - generic "Test Pages" [ref=f4e10]
+            - generic "PRACTICE SOFTWARE TESTING" [ref=f4e11]
+        - list [ref=f4e13]:
+          - listitem [ref=f4e14]:
+            - link "Pages" [ref=f4e15] [cursor=pointer]:
+              - /url: /pages/
+          - listitem [ref=f4e16]:
+            - link "Apps" [ref=f4e17] [cursor=pointer]:
+              - /url: /apps/
+          - listitem [ref=f4e18]:
+            - link "Fun and Games" [ref=f4e19] [cursor=pointer]:
+              - /url: /fun-and-games/
+          - listitem [ref=f4e20]:
+            - link "Tools" [ref=f4e21] [cursor=pointer]:
+              - /url: /tools/
+          - listitem [ref=f4e22]:
+            - link "Challenges" [ref=f4e23] [cursor=pointer]:
+              - /url: /challenges/
+          - listitem [ref=f4e24]:
+            - link "Reference Information and Tutorials" [ref=f4e25] [cursor=pointer]:
+              - /url: /reference/
+    - generic [ref=f4e26]:
+      - text: Support this site by joining our Patreon. For as little as $1 a month you receive exclusive ad-free content, ebooks and online training courses. —
+      - link "Learn more" [ref=f4e27] [cursor=pointer]:
+        - /url: https://patreon.com/eviltester
+  - generic [ref=f4e28]:
+    - generic [ref=f4e30]:
+      - complementary [ref=f4e31]:
+        - generic [ref=f4e32]:
+          - text: 
+          - navigation [ref=f4e33]:
+            - list [ref=f4e34]:
+              - listitem [ref=f4e35]:
+                - link "Practice Pages" [ref=f4e36] [cursor=pointer]:
+                  - /url: /
+                - list [ref=f4e37]:
+                  - listitem [ref=f4e38]:
+                    - generic [ref=f4e39]:
+                      - text: 
+                      - link "Pages" [ref=f4e40] [cursor=pointer]:
+                        - /url: /pages/
+                    - text:                                                                   
+                  - listitem [ref=f4e41]:
+                    - generic [ref=f4e42]:
+                      - text: 
+                      - link "Apps" [ref=f4e43] [cursor=pointer]:
+                        - /url: /apps/
+                    - text:                   
+                  - listitem [ref=f4e44]:
+                    - generic [ref=f4e45]:
+                      - text: 
+                      - link "Fun and Games" [ref=f4e46] [cursor=pointer]:
+                        - /url: /fun-and-games/
+                    - text:             
+                  - listitem [ref=f4e47]:
+                    - generic [ref=f4e48]:
+                      - text: 
+                      - link "Tools" [ref=f4e49] [cursor=pointer]:
+                        - /url: /tools/
+                    - text:   
+                  - listitem [ref=f4e50]:
+                    - generic [ref=f4e51]:
+                      - text: 
+                      - link "Challenges" [ref=f4e52] [cursor=pointer]:
+                        - /url: /challenges/
+                    - text:             
+                  - listitem [ref=f4e53]:
+                    - generic [ref=f4e54]:
+                      - text: 
+                      - link "Reference Information and Tutorials" [ref=f4e55] [cursor=pointer]:
+                        - /url: /reference/
+                    - text:   
+      - complementary [ref=f4e56]:
+        - navigation [ref=f4e59]:
+          - list [ref=f4e60]:
+            - listitem [ref=f4e61]:
+              - link "Overview Video" [ref=f4e62] [cursor=pointer]:
+                - /url: "#overview-video"
+            - listitem [ref=f4e63]:
+              - link "About" [ref=f4e64] [cursor=pointer]:
+                - /url: "#about"
+            - listitem [ref=f4e65]:
+              - link "Pages" [ref=f4e66] [cursor=pointer]:
+                - /url: "#pages"
+            - listitem [ref=f4e67]:
+              - link "Support These Pages" [ref=f4e68] [cursor=pointer]:
+                - /url: "#support-these-pages"
+            - listitem [ref=f4e69]:
+              - link "Sponsoring" [ref=f4e70] [cursor=pointer]:
+                - /url: "#sponsoring"
+            - listitem [ref=f4e71]:
+              - link "History" [ref=f4e72] [cursor=pointer]:
+                - /url: "#history"
+        - generic [ref=f4e73]:
+          - paragraph [ref=f4e74]: Support this site by joining our Patreon. As little as $1 a month, and you receive exclusive content, ebooks and videos.
+          - paragraph [ref=f4e75]:
+            - link "Learn More" [ref=f4e76] [cursor=pointer]:
+              - /url: https://patreon.com/eviltester
+        - generic [ref=f4e77]:
+          - paragraph [ref=f4e78]: Tag Cloud
+          - list [ref=f4e79]:
+            - listitem [ref=f4e80]:
+              - link "AI 1" [ref=f4e81] [cursor=pointer]:
+                - /url: /tags/ai/
+                - text: AI
+                - generic [ref=f4e82]: "1"
+            - listitem [ref=f4e83]:
+              - link "Alerts 2" [ref=f4e84] [cursor=pointer]:
+                - /url: /tags/alerts/
+                - text: Alerts
+                - generic [ref=f4e85]: "2"
+            - listitem [ref=f4e86]:
+              - link "API 21" [ref=f4e87] [cursor=pointer]:
+                - /url: /tags/api/
+                - text: API
+                - generic [ref=f4e88]: "21"
+            - listitem [ref=f4e89]:
+              - link "Attributes 2" [ref=f4e90] [cursor=pointer]:
+                - /url: /tags/attributes/
+                - text: Attributes
+                - generic [ref=f4e91]: "2"
+            - listitem [ref=f4e92]:
+              - link "Authentication 3" [ref=f4e93] [cursor=pointer]:
+                - /url: /tags/authentication/
+                - text: Authentication
+                - generic [ref=f4e94]: "3"
+            - listitem [ref=f4e95]:
+              - link "Automating 3" [ref=f4e96] [cursor=pointer]:
+                - /url: /tags/automating/
+                - text: Automating
+                - generic [ref=f4e97]: "3"
+            - listitem [ref=f4e98]:
+              - link "Canvas 3" [ref=f4e99] [cursor=pointer]:
+                - /url: /tags/canvas/
+                - text: Canvas
+                - generic [ref=f4e100]: "3"
+            - listitem [ref=f4e101]:
+              - link "Components 1" [ref=f4e102] [cursor=pointer]:
+                - /url: /tags/components/
+                - text: Components
+                - generic [ref=f4e103]: "1"
+            - listitem [ref=f4e104]:
+              - link "Cookies 3" [ref=f4e105] [cursor=pointer]:
+                - /url: /tags/cookies/
+                - text: Cookies
+                - generic [ref=f4e106]: "3"
+            - listitem [ref=f4e107]:
+              - link "CSS 4" [ref=f4e108] [cursor=pointer]:
+                - /url: /tags/css/
+                - text: CSS
+                - generic [ref=f4e109]: "4"
+            - listitem [ref=f4e110]:
+              - link "Elements 20" [ref=f4e111] [cursor=pointer]:
+                - /url: /tags/elements/
+                - text: Elements
+                - generic [ref=f4e112]: "20"
+            - listitem [ref=f4e113]:
+              - link "Errors 4" [ref=f4e114] [cursor=pointer]:
+                - /url: /tags/errors/
+                - text: Errors
+                - generic [ref=f4e115]: "4"
+            - listitem [ref=f4e116]:
+              - link "Exploratory Testing 74" [ref=f4e117] [cursor=pointer]:
+                - /url: /tags/exploratory-testing/
+                - text: Exploratory Testing
+                - generic [ref=f4e118]: "74"
+            - listitem [ref=f4e119]:
+              - link "Files 2" [ref=f4e120] [cursor=pointer]:
+                - /url: /tags/files/
+                - text: Files
+                - generic [ref=f4e121]: "2"
+            - listitem [ref=f4e122]:
+              - link "Forms 8" [ref=f4e123] [cursor=pointer]:
+                - /url: /tags/forms/
+                - text: Forms
+                - generic [ref=f4e124]: "8"
+            - listitem [ref=f4e125]:
+              - link "Frames 4" [ref=f4e126] [cursor=pointer]:
+                - /url: /tags/frames/
+                - text: Frames
+                - generic [ref=f4e127]: "4"
+            - listitem [ref=f4e128]:
+              - link "Games 18" [ref=f4e129] [cursor=pointer]:
+                - /url: /tags/games/
+                - text: Games
+                - generic [ref=f4e130]: "18"
+            - listitem [ref=f4e131]:
+              - link "Hover 1" [ref=f4e132] [cursor=pointer]:
+                - /url: /tags/hover/
+                - text: Hover
+                - generic [ref=f4e133]: "1"
+            - listitem [ref=f4e134]:
+              - link "HTML 1" [ref=f4e135] [cursor=pointer]:
+                - /url: /tags/html/
+                - text: HTML
+                - generic [ref=f4e136]: "1"
+            - listitem [ref=f4e137]:
+              - link "HTTP 1" [ref=f4e138] [cursor=pointer]:
+                - /url: /tags/http/
+                - text: HTTP
+                - generic [ref=f4e139]: "1"
+            - listitem [ref=f4e140]:
+              - link "Images 1" [ref=f4e141] [cursor=pointer]:
+                - /url: /tags/images/
+                - text: Images
+                - generic [ref=f4e142]: "1"
+            - listitem [ref=f4e143]:
+              - link "Input 7" [ref=f4e144] [cursor=pointer]:
+                - /url: /tags/input/
+                - text: Input
+                - generic [ref=f4e145]: "7"
+            - listitem [ref=f4e146]:
+              - link "Interaction 49" [ref=f4e147] [cursor=pointer]:
+                - /url: /tags/interaction/
+                - text: Interaction
+                - generic [ref=f4e148]: "49"
+            - listitem [ref=f4e149]:
+              - link "Java 1" [ref=f4e150] [cursor=pointer]:
+                - /url: /tags/java/
+                - text: Java
+                - generic [ref=f4e151]: "1"
+            - listitem [ref=f4e152]:
+              - link "JavaScript 63" [ref=f4e153] [cursor=pointer]:
+                - /url: /tags/javascript/
+                - text: JavaScript
+                - generic [ref=f4e154]: "63"
+            - listitem [ref=f4e155]:
+              - link "JSON 1" [ref=f4e156] [cursor=pointer]:
+                - /url: /tags/json/
+                - text: JSON
+                - generic [ref=f4e157]: "1"
+            - listitem [ref=f4e158]:
+              - link "Local Storage 1" [ref=f4e159] [cursor=pointer]:
+                - /url: /tags/local-storage/
+                - text: Local Storage
+                - generic [ref=f4e160]: "1"
+            - listitem [ref=f4e161]:
+              - link "Locators 19" [ref=f4e162] [cursor=pointer]:
+                - /url: /tags/locators/
+                - text: Locators
+                - generic [ref=f4e163]: "19"
+            - listitem [ref=f4e164]:
+              - link "Mobile 1" [ref=f4e165] [cursor=pointer]:
+                - /url: /tags/mobile/
+                - text: Mobile
+                - generic [ref=f4e166]: "1"
+            - listitem [ref=f4e167]:
+              - link "Navigation 7" [ref=f4e168] [cursor=pointer]:
+                - /url: /tags/navigation/
+                - text: Navigation
+                - generic [ref=f4e169]: "7"
+            - listitem [ref=f4e170]:
+              - link "Randomness 1" [ref=f4e171] [cursor=pointer]:
+                - /url: /tags/randomness/
+                - text: Randomness
+                - generic [ref=f4e172]: "1"
+            - listitem [ref=f4e173]:
+              - link "Security Testing 1" [ref=f4e174] [cursor=pointer]:
+                - /url: /tags/security-testing/
+                - text: Security Testing
+                - generic [ref=f4e175]: "1"
+            - listitem [ref=f4e176]:
+              - link "Shadow Dom 3" [ref=f4e177] [cursor=pointer]:
+                - /url: /tags/shadow-dom/
+                - text: Shadow Dom
+                - generic [ref=f4e178]: "3"
+            - listitem [ref=f4e179]:
+              - link "Storage 5" [ref=f4e180] [cursor=pointer]:
+                - /url: /tags/storage/
+                - text: Storage
+                - generic [ref=f4e181]: "5"
+            - listitem [ref=f4e182]:
+              - link "Synchronization 12" [ref=f4e183] [cursor=pointer]:
+                - /url: /tags/synchronization/
+                - text: Synchronization
+                - generic [ref=f4e184]: "12"
+            - listitem [ref=f4e185]:
+              - link "Table 2" [ref=f4e186] [cursor=pointer]:
+                - /url: /tags/table/
+                - text: Table
+                - generic [ref=f4e187]: "2"
+            - listitem [ref=f4e188]:
+              - link "Test Data 2" [ref=f4e189] [cursor=pointer]:
+                - /url: /tags/test-data/
+                - text: Test Data
+                - generic [ref=f4e190]: "2"
+            - listitem [ref=f4e191]:
+              - link "Text 4" [ref=f4e192] [cursor=pointer]:
+                - /url: /tags/text/
+                - text: Text
+                - generic [ref=f4e193]: "4"
+            - listitem [ref=f4e194]:
+              - link "Tool 3" [ref=f4e195] [cursor=pointer]:
+                - /url: /tags/tool/
+                - text: Tool
+                - generic [ref=f4e196]: "3"
+            - listitem [ref=f4e197]:
+              - link "WebDriver 2" [ref=f4e198] [cursor=pointer]:
+                - /url: /tags/webdriver/
+                - text: WebDriver
+                - generic [ref=f4e199]: "2"
+        - generic [ref=f4e200]:
+          - paragraph [ref=f4e201]: Categories
+          - list [ref=f4e202]:
+            - listitem [ref=f4e203]:
+              - link "Advanced 11" [ref=f4e204] [cursor=pointer]:
+                - /url: /categories/advanced/
+                - text: Advanced
+                - generic [ref=f4e205]: "11"
+            - listitem [ref=f4e206]:
+              - link "Basics 22" [ref=f4e207] [cursor=pointer]:
+                - /url: /categories/basics/
+                - text: Basics
+                - generic [ref=f4e208]: "22"
+            - listitem [ref=f4e209]:
+              - link "Buggy Game 17" [ref=f4e210] [cursor=pointer]:
+                - /url: /categories/buggy-game/
+                - text: Buggy Game
+                - generic [ref=f4e211]: "17"
+            - listitem [ref=f4e212]:
+              - link "Challenges 12" [ref=f4e213] [cursor=pointer]:
+                - /url: /categories/challenges/
+                - text: Challenges
+                - generic [ref=f4e214]: "12"
+            - listitem [ref=f4e215]:
+              - link "Fun and Games 19" [ref=f4e216] [cursor=pointer]:
+                - /url: /categories/fun-and-games/
+                - text: Fun and Games
+                - generic [ref=f4e217]: "19"
+            - listitem [ref=f4e218]:
+              - link "Intermediate 17" [ref=f4e219] [cursor=pointer]:
+                - /url: /categories/intermediate/
+                - text: Intermediate
+                - generic [ref=f4e220]: "17"
+            - listitem [ref=f4e221]:
+              - link "Micro App 33" [ref=f4e222] [cursor=pointer]:
+                - /url: /categories/micro-app/
+                - text: Micro App
+                - generic [ref=f4e223]: "33"
+            - listitem [ref=f4e224]:
+              - link "Reference 6" [ref=f4e225] [cursor=pointer]:
+                - /url: /categories/reference/
+                - text: Reference
+                - generic [ref=f4e226]: "6"
+            - listitem [ref=f4e227]:
+              - link "Tool 3" [ref=f4e228] [cursor=pointer]:
+                - /url: /categories/tool/
+                - text: Tool
+                - generic [ref=f4e229]: "3"
+      - main [ref=f4e230]:
+        - generic [ref=f4e231]:
+          - heading "Software Testing Practice Pages" [level=1] [ref=f4e232]
+          - list [ref=f4e233]:
+            - listitem [ref=f4e234]:
+              - strong [ref=f4e235]: NEW 20260918
+              - text: Added the
+              - link "fun and games" [ref=f4e236] [cursor=pointer]:
+                - /url: /fun-and-games/
+              - text: and
+              - link "tools" [ref=f4e237] [cursor=pointer]:
+                - /url: /tools/
+              - text: sections.
+            - listitem [ref=f4e238]:
+              - text: 20260718 Added the
+              - link "AI Chat Bot App" [ref=f4e239] [cursor=pointer]:
+                - /url: /apps/ai-chat-bot/
+            - listitem [ref=f4e240]:
+              - text: 20260707 Added the
+              - link "Browser AI API pages" [ref=f4e241] [cursor=pointer]:
+                - /url: /pages/browser-apis/ai/
+            - listitem [ref=f4e242]:
+              - text: 20260201 Added the
+              - link "Server Side Infinite Scroll challenge" [ref=f4e243] [cursor=pointer]:
+                - /url: /challenges/synchronization/infinite-scroll/server-side/
+              - text: .
+            - listitem [ref=f4e244]:
+              - text: 20260201 Converted the site to use
+              - link "Javalin" [ref=f4e245] [cursor=pointer]:
+                - /url: https://javalin.io/
+              - text: .
+          - generic [ref=f4e246]:
+            - paragraph [ref=f4e247]:
+              - strong [ref=f4e248]: Practice Applications and Pages For Automating and Testing
+            - paragraph [ref=f4e249]: This is a set of applications and example pages for practicing Automation, Software Testing, Web Automating, Exploratory Testing, and JavaScript Hacking.
+            - paragraph [ref=f4e250]: Each page, challenge and application has an Instructions page with more information and activity hints. There is also a reference section with more detailed information about Testing and Automating.
+          - paragraph [ref=f4e251]: "The site contains:"
+          - list [ref=f4e252]:
+            - listitem [ref=f4e253]:
+              - text: Pages
+              - list [ref=f4e254]:
+                - listitem [ref=f4e255]: very focused examples of principles and approaches, these are useful for exploring concepts and techniques
+            - listitem [ref=f4e256]:
+              - text: Apps
+              - list [ref=f4e257]:
+                - listitem [ref=f4e258]: usually one page apps, but occasionally more, they present a functional example of web concepts and are designed to support exploratory testing, technical testing and automating.
+            - listitem [ref=f4e259]:
+              - text: Fun and Games
+              - list [ref=f4e260]:
+                - listitem [ref=f4e261]: playful applications and games for practicing exploratory testing, JavaScript hacking, and automation.
+            - listitem [ref=f4e262]:
+              - text: Tools
+              - list [ref=f4e263]:
+                - listitem [ref=f4e264]: small utilities and support applications that help with testing, data generation, and browser investigation.
+            - listitem [ref=f4e265]:
+              - text: Challenges
+              - list [ref=f4e266]:
+                - listitem [ref=f4e267]: these are harder to automate, and often impossible to interact with manually without ‘cheating’. Once you have covered the basics by working with the Pages and the Apps you can test your skills with the Challenges
+            - listitem [ref=f4e268]:
+              - text: Reference
+              - list [ref=f4e269]:
+                - listitem [ref=f4e270]: a set of reference content that would be overkill to add to the Instructions. This has testing and automation theory, as well as practical hints and tips.
+          - heading "Overview Video" [level=2] [ref=f4e271]
+          - iframe [ref=f4e273]:
+            - generic [ref=f5e1]:
+              - generic "YouTube Video Player" [ref=f5e3]
+              - generic [ref=f5e5]:
+                - generic:
+                  - generic:
+                    - generic [ref=f5e6] [cursor=pointer]
+                    - button "Play video" [ref=f5e10] [cursor=pointer]
+                    - button "Hide player controls" [ref=f5e12] [cursor=pointer]
+                    - generic [ref=f5e14]:
+                      - generic [ref=f5e19]:
+                        - generic [ref=f5e20]:
+                          - link "Best Free Dummy Web App for Testing (2025)" [ref=f5e21] [cursor=pointer]:
+                            - /url: https://www.youtube.com/watch?v=jvEbl6GZFMI
+                          - link "EvilTester - Software Testing" [ref=f5e22] [cursor=pointer]:
+                            - /url: /channel/UCCAwIFH3FRVD9GBuVRW_mUw
+                        - generic [ref=f5e24]:
+                          - button [ref=f5e25] [cursor=pointer]
+                          - generic [ref=f5e27]:
+                            - generic: EvilTester - Software Testing
+                            - generic: 27.2K subscribers
+                      - generic [ref=f5e28]:
+                        - button "Share" [ref=f5e31] [cursor=pointer]
+                        - link "Watch on YouTube" [ref=f5e42] [cursor=pointer]:
+                          - /url: https://www.youtube.com/watch?v=jvEbl6GZFMI
+                          - generic [ref=f5e43]: Watch on
+          - paragraph [ref=f4e275]:
+            - link "Watch on YouTube" [ref=f4e276] [cursor=pointer]:
+              - /url: https://www.youtube.com/watch?v=jvEbl6GZFMI
+          - heading "About" [level=2] [ref=f4e277]
+          - paragraph [ref=f4e278]:
+            - text: I
+            - link "(Alan Richardson)" [ref=f4e279] [cursor=pointer]:
+              - /url: https://eviltester.com
+            - text: created this, because I believe the best way to improve your testing skills is to practice.
+          - paragraph [ref=f4e280]: Learning how to practice is a skill that takes time.
+          - paragraph [ref=f4e281]: Testing is a rich and varied process. There are many different ways of viewing a system and exploring its functionality. Each exercise and test page will pay dividends on repeat visits.
+          - paragraph [ref=f4e282]: The more you learn how to practice, the more value you can get from these pages.
+          - paragraph [ref=f4e283]:
+            - text: Patreon supporters can download a
+            - link "free 205 page ebook of exercises and notes" [ref=f4e284] [cursor=pointer]:
+              - /url: https://www.patreon.com/posts/75068248
+            - text: based on one of these pages, the
+            - link "7 Char Validation application" [ref=f4e285] [cursor=pointer]:
+              - /url: /apps/7-char-val/
+            - text: .
+          - paragraph [ref=f4e286]: The secret to Software Testing is Taking Action. When we are faced with a system that we don’t know, or don’t know how to test, then we try, we explore, we take action.
+          - paragraph [ref=f4e287]: "By taking action we learn:"
+          - list [ref=f4e288]:
+            - listitem [ref=f4e289]: what we don’t know and can then investigate and research to allow us to proceed.
+            - listitem [ref=f4e290]: what paths are open to us and we can quickly proceed to exploration.
+          - paragraph [ref=f4e291]: We learn by doing.
+          - heading "Pages" [level=2] [ref=f4e292]
+          - paragraph [ref=f4e293]: Some of the examples are suitable for manual exploratory testing, learning HTML, learning Technical Web Testing, and JavaScript hacking.
+          - paragraph [ref=f4e294]: The “Instructions” page for each of the practice pages should provide more hints, tips and possibly sample exercises.
+          - heading "Support These Pages" [level=2] [ref=f4e295]
+          - paragraph [ref=f4e296]:
+            - text: If you find these pages useful then you can support their development and expansion by signing up for our
+            - link "Patreon Membership" [ref=f4e297] [cursor=pointer]:
+              - /url: https://www.patreon.com/eviltester
+            - text: . From as little as $1 a month you gain access to all the online training courses and ebooks on
+            - link "TesterHQ.com" [ref=f4e298] [cursor=pointer]:
+              - /url: https://www.testerhq.com/
+            - text: ", early access to ad-free YouTube videos and podcasts, and regular exclusive posts."
+          - paragraph [ref=f4e299]:
+            - text: Learn more, and support this site with a
+            - link "Patreon Membership" [ref=f4e300] [cursor=pointer]:
+              - /url: https://www.patreon.com/eviltester
+            - text: .
+          - heading "Sponsoring" [level=2] [ref=f4e301]
+          - paragraph [ref=f4e302]:
+            - text: If you are a company, interested in sponsoring the pages and being promoted on this site then contact
+            - link "Alan Richardson via LinkedIn" [ref=f4e303] [cursor=pointer]:
+              - /url: https://linkedin.com/in/eviltester
+            - text: .
+          - heading "History" [level=2] [ref=f4e304]
+          - paragraph [ref=f4e305]: This is a set of pages which were originally written for the purpose of training people in Selenium/WebDriver, and working through books written by Alan Richardson
+          - list [ref=f4e306]:
+            - listitem [ref=f4e307]:
+              - link "Online Training Courses" [ref=f4e308] [cursor=pointer]:
+                - /url: https://www.eviltester.com/page/onlinetraining/courses/
+            - listitem [ref=f4e309]:
+              - link "Books" [ref=f4e310] [cursor=pointer]:
+                - /url: https://www.eviltester.com/page/books/
+          - paragraph [ref=f4e311]: This is the third edition of this site.
+          - list [ref=f4e312]:
+            - listitem [ref=f4e313]:
+              - text: The original static pages are still available on
+              - link "github" [ref=f4e314] [cursor=pointer]:
+                - /url: https://github.com/eviltester/seleniumTestPages
+            - listitem [ref=f4e315]:
+              - text: and the 2nd edition which was bundled into the Compendium of Testing Apps
+              - link "github" [ref=f4e316] [cursor=pointer]:
+                - /url: https://github.com/eviltester/TestingApp
+            - listitem [ref=f4e317]: This is the third edition, currently the source is not yet available as open source.
+          - paragraph [ref=f4e318]: You may use these pages for study and practice.
+          - list [ref=f4e319]:
+            - listitem [ref=f4e320]:
+              - text: 20260101 Added 6 new sites to the ‘
+              - link "other sites" [ref=f4e321] [cursor=pointer]:
+                - /url: /reference/other-sites/
+              - text: ’ page - AlphaGov and Testers.ai pages for Accessibiliy, and another Blaze site (travel) and Octoperf for performance testing, CandyMapper and Guarav Khurana’s Practice Hub.
+            - listitem [ref=f4e322]:
+              - text: 20251216 Checkout our new
+              - link "Shopping Cart Practice app" [ref=f4e323] [cursor=pointer]:
+                - /url: /apps/basiccart/
+              - text: . Suitable for automating, exploring, security testing and REST API testing.
+    - contentinfo [ref=f4e324]:
+      - generic [ref=f4e325]:
+        - paragraph [ref=f4e326]:
+          - text: Help keep this site free by joining our
+          - link "Patreon Membership site" [ref=f4e327] [cursor=pointer]:
+            - /url: https://patreon.com/eviltester
+          - text: . Membership costs as little as $1 a month and includes access to exclusive
+          - link "e-books and online training courses" [ref=f4e328] [cursor=pointer]:
+            - /url: https://www.testerhq.com/
+          - text: .
+        - paragraph [ref=f4e329]:
+          - text: If you'd like to see your advertising message here or learn about corporate sponsorship then
+          - link "Contact Us" [ref=f4e330] [cursor=pointer]:
+            - /url: https://linkedin.com/in/eviltester
+          - text: .
+      - generic [ref=f4e332]:
+        - list [ref=f4e334]:
+          - listitem "Twitter" [ref=f4e335]:
+            - link "Twitter" [ref=f4e336] [cursor=pointer]:
+              - /url: https://twitter.com/eviltester
+              - generic [ref=f4e337]: 
+          - listitem "LinkedIn" [ref=f4e338]:
+            - link "LinkedIn" [ref=f4e339] [cursor=pointer]:
+              - /url: https://linkedin.com/in/eviltester
+              - generic [ref=f4e340]: 
+        - list [ref=f4e342]:
+          - listitem "GitHub" [ref=f4e343]:
+            - link "GitHub" [ref=f4e344] [cursor=pointer]:
+              - /url: https://github.com/eviltester
+              - generic [ref=f4e345]: 
+        - generic [ref=f4e346]:
+          - generic [ref=f4e347]: © 2025–2026 Compendium Developments Ltd
+          - link "Privacy Policy" [ref=f4e349] [cursor=pointer]:
+            - /url: https://www.eviltester.com/page/privacy/

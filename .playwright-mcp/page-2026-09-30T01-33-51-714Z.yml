@@ -1,0 +1,721 @@
+- generic [active] [ref=f15e1]:
+  - banner [ref=f15e2]:
+    - navigation [ref=f15e3]:
+      - generic [ref=f15e4]:
+        - link [ref=f15e5] [cursor=pointer]:
+          - /url: /
+          - img [ref=f15e7]:
+            - generic "Test Pages" [ref=f15e10]
+            - generic "PRACTICE SOFTWARE TESTING" [ref=f15e11]
+        - list [ref=f15e13]:
+          - listitem [ref=f15e14]:
+            - link "Pages" [ref=f15e15] [cursor=pointer]:
+              - /url: /pages/
+          - listitem [ref=f15e16]:
+            - link "Apps" [ref=f15e17] [cursor=pointer]:
+              - /url: /apps/
+          - listitem [ref=f15e18]:
+            - link "Fun and Games" [ref=f15e19] [cursor=pointer]:
+              - /url: /fun-and-games/
+          - listitem [ref=f15e20]:
+            - link "Tools" [ref=f15e21] [cursor=pointer]:
+              - /url: /tools/
+          - listitem [ref=f15e22]:
+            - link "Challenges" [ref=f15e23] [cursor=pointer]:
+              - /url: /challenges/
+          - listitem [ref=f15e24]:
+            - link "Reference Information and Tutorials" [ref=f15e25] [cursor=pointer]:
+              - /url: /reference/
+    - generic [ref=f15e26]:
+      - text: Support this site by joining our Patreon. For as little as $1 a month you receive exclusive ad-free content, ebooks and online training courses. —
+      - link "Learn more" [ref=f15e27] [cursor=pointer]:
+        - /url: https://patreon.com/eviltester
+  - generic [ref=f15e28]:
+    - generic [ref=f15e30]:
+      - complementary [ref=f15e31]:
+        - generic [ref=f15e32]:
+          - text: 
+          - navigation [ref=f15e33]:
+            - list [ref=f15e34]:
+              - listitem [ref=f15e35]:
+                - link "Practice Pages" [ref=f15e36] [cursor=pointer]:
+                  - /url: /
+                - list [ref=f15e37]:
+                  - listitem [ref=f15e38]:
+                    - generic [ref=f15e39]:
+                      - text: 
+                      - link "Pages" [ref=f15e40] [cursor=pointer]:
+                        - /url: /pages/
+                    - text:                                                                   
+                  - listitem [ref=f15e41]:
+                    - generic [ref=f15e42]:
+                      - text: 
+                      - link "Apps" [ref=f15e43] [cursor=pointer]:
+                        - /url: /apps/
+                    - list [ref=f15e44]:
+                      - listitem [ref=f15e45]:
+                        - generic [ref=f15e46]:
+                          - text: 
+                          - link "Triangle" [ref=f15e47] [cursor=pointer]:
+                            - /url: /apps/triangle/
+                      - listitem [ref=f15e48]:
+                        - generic [ref=f15e49]:
+                          - text: 
+                          - link "7 Char Val" [ref=f15e50] [cursor=pointer]:
+                            - /url: /apps/7-char-val/
+                      - listitem [ref=f15e51]:
+                        - generic [ref=f15e52]:
+                          - text: 
+                          - link "Shopping Cart" [ref=f15e53] [cursor=pointer]:
+                            - /url: /apps/basiccart/
+                      - listitem [ref=f15e54]:
+                        - generic [ref=f15e55]:
+                          - text: 
+                          - link "AI Chat Bot" [ref=f15e56] [cursor=pointer]:
+                            - /url: /apps/ai-chat-bot/
+                      - listitem [ref=f15e57]:
+                        - generic [ref=f15e58]:
+                          - text: 
+                          - link "Button Calculator" [ref=f15e59] [cursor=pointer]:
+                            - /url: /apps/button-calculator/
+                      - listitem [ref=f15e60]:
+                        - generic [ref=f15e61]:
+                          - text: 
+                          - link "Canvas Draw" [ref=f15e62] [cursor=pointer]:
+                            - /url: /apps/canvas-draw/
+                      - listitem [ref=f15e63]:
+                        - generic [ref=f15e64]:
+                          - text: 
+                          - link "Canvas Scribble" [ref=f15e65] [cursor=pointer]:
+                            - /url: /apps/canvas-scribble/
+                      - listitem [ref=f15e66]:
+                        - generic [ref=f15e67]:
+                          - text: 
+                          - link "Validated Client Server Form" [ref=f15e68] [cursor=pointer]:
+                            - /url: /apps/client-server-form-validation/
+                        - list [ref=f15e69]:
+                          - listitem [ref=f15e70]:
+                            - link "Instructions" [ref=f15e72] [cursor=pointer]:
+                              - /url: /apps/client-server-form-validation/client-server-form-validation-instructions/
+                      - listitem [ref=f15e73]:
+                        - generic [ref=f15e74]:
+                          - text: 
+                          - link "HTML Table Generator" [ref=f15e75] [cursor=pointer]:
+                            - /url: /apps/html-table-generator/
+                      - listitem [ref=f15e76]:
+                        - generic [ref=f15e77]:
+                          - text: 
+                          - link "Grammar Data Gen" [ref=f15e78] [cursor=pointer]:
+                            - /url: /apps/grammar-data-gen/
+                      - listitem [ref=f15e79]:
+                        - generic [ref=f15e80]:
+                          - text: 
+                          - link "Countdown Timer" [ref=f15e81] [cursor=pointer]:
+                            - /url: /apps/countdown-timer/
+                      - listitem [ref=f15e82]:
+                        - generic [ref=f15e83]:
+                          - text: 
+                          - link "Server Side Calculator" [ref=f15e84] [cursor=pointer]:
+                            - /url: /apps/server-side-calculator/
+                      - listitem [ref=f15e85]:
+                        - generic [ref=f15e86]:
+                          - text: 
+                          - link "Simple Calculator API" [ref=f15e87] [cursor=pointer]:
+                            - /url: /apps/calculator-api/
+                      - listitem [ref=f15e88]:
+                        - generic [ref=f15e89]:
+                          - text: 
+                          - link "Text Transformer" [ref=f15e90] [cursor=pointer]:
+                            - /url: /apps/text-transformer/
+                      - listitem [ref=f15e91]:
+                        - generic [ref=f15e92]:
+                          - text: 
+                          - link "Cookie Controlled Login" [ref=f15e93] [cursor=pointer]:
+                            - /url: /apps/simulated-login/
+                      - listitem [ref=f15e94]:
+                        - generic [ref=f15e95]:
+                          - text: 
+                          - link "Numbers to Text" [ref=f15e96] [cursor=pointer]:
+                            - /url: /apps/numbers-to-text/
+                      - listitem [ref=f15e97]:
+                        - generic [ref=f15e98]:
+                          - text: 
+                          - link "Note Taker" [ref=f15e99] [cursor=pointer]:
+                            - /url: /apps/note-taker/
+                      - listitem [ref=f15e100]:
+                        - generic [ref=f15e101]:
+                          - text: 
+                          - link "E-Primer" [ref=f15e102] [cursor=pointer]:
+                            - /url: /apps/e-primer/
+                      - listitem [ref=f15e103]:
+                        - generic [ref=f15e104]:
+                          - text: 
+                          - link "Simple TODO List" [ref=f15e105] [cursor=pointer]:
+                            - /url: /apps/simple-todo-list/
+                  - listitem [ref=f15e106]:
+                    - generic [ref=f15e107]:
+                      - text: 
+                      - link "Fun and Games" [ref=f15e108] [cursor=pointer]:
+                        - /url: /fun-and-games/
+                    - text:             
+                  - listitem [ref=f15e109]:
+                    - generic [ref=f15e110]:
+                      - text: 
+                      - link "Tools" [ref=f15e111] [cursor=pointer]:
+                        - /url: /tools/
+                    - text:   
+                  - listitem [ref=f15e112]:
+                    - generic [ref=f15e113]:
+                      - text: 
+                      - link "Challenges" [ref=f15e114] [cursor=pointer]:
+                        - /url: /challenges/
+                    - text:             
+                  - listitem [ref=f15e115]:
+                    - generic [ref=f15e116]:
+                      - text: 
+                      - link "Reference Information and Tutorials" [ref=f15e117] [cursor=pointer]:
+                        - /url: /reference/
+                    - text:   
+      - complementary [ref=f15e118]:
+        - generic [ref=f15e120]:
+          - paragraph [ref=f15e121]: Support this site by joining our Patreon. As little as $1 a month, and you receive exclusive content, ebooks and videos.
+          - paragraph [ref=f15e122]:
+            - link "Learn More" [ref=f15e123] [cursor=pointer]:
+              - /url: https://patreon.com/eviltester
+        - generic [ref=f15e124]:
+          - paragraph [ref=f15e125]: Tag Cloud
+          - list [ref=f15e126]:
+            - listitem [ref=f15e127]:
+              - link "AI 1" [ref=f15e128] [cursor=pointer]:
+                - /url: /tags/ai/
+                - text: AI
+                - generic [ref=f15e129]: "1"
+            - listitem [ref=f15e130]:
+              - link "Alerts 2" [ref=f15e131] [cursor=pointer]:
+                - /url: /tags/alerts/
+                - text: Alerts
+                - generic [ref=f15e132]: "2"
+            - listitem [ref=f15e133]:
+              - link "API 21" [ref=f15e134] [cursor=pointer]:
+                - /url: /tags/api/
+                - text: API
+                - generic [ref=f15e135]: "21"
+            - listitem [ref=f15e136]:
+              - link "Attributes 2" [ref=f15e137] [cursor=pointer]:
+                - /url: /tags/attributes/
+                - text: Attributes
+                - generic [ref=f15e138]: "2"
+            - listitem [ref=f15e139]:
+              - link "Authentication 3" [ref=f15e140] [cursor=pointer]:
+                - /url: /tags/authentication/
+                - text: Authentication
+                - generic [ref=f15e141]: "3"
+            - listitem [ref=f15e142]:
+              - link "Automating 3" [ref=f15e143] [cursor=pointer]:
+                - /url: /tags/automating/
+                - text: Automating
+                - generic [ref=f15e144]: "3"
+            - listitem [ref=f15e145]:
+              - link "Canvas 3" [ref=f15e146] [cursor=pointer]:
+                - /url: /tags/canvas/
+                - text: Canvas
+                - generic [ref=f15e147]: "3"
+            - listitem [ref=f15e148]:
+              - link "Components 1" [ref=f15e149] [cursor=pointer]:
+                - /url: /tags/components/
+                - text: Components
+                - generic [ref=f15e150]: "1"
+            - listitem [ref=f15e151]:
+              - link "Cookies 3" [ref=f15e152] [cursor=pointer]:
+                - /url: /tags/cookies/
+                - text: Cookies
+                - generic [ref=f15e153]: "3"
+            - listitem [ref=f15e154]:
+              - link "CSS 4" [ref=f15e155] [cursor=pointer]:
+                - /url: /tags/css/
+                - text: CSS
+                - generic [ref=f15e156]: "4"
+            - listitem [ref=f15e157]:
+              - link "Elements 20" [ref=f15e158] [cursor=pointer]:
+                - /url: /tags/elements/
+                - text: Elements
+                - generic [ref=f15e159]: "20"
+            - listitem [ref=f15e160]:
+              - link "Errors 4" [ref=f15e161] [cursor=pointer]:
+                - /url: /tags/errors/
+                - text: Errors
+                - generic [ref=f15e162]: "4"
+            - listitem [ref=f15e163]:
+              - link "Exploratory Testing 74" [ref=f15e164] [cursor=pointer]:
+                - /url: /tags/exploratory-testing/
+                - text: Exploratory Testing
+                - generic [ref=f15e165]: "74"
+            - listitem [ref=f15e166]:
+              - link "Files 2" [ref=f15e167] [cursor=pointer]:
+                - /url: /tags/files/
+                - text: Files
+                - generic [ref=f15e168]: "2"
+            - listitem [ref=f15e169]:
+              - link "Forms 8" [ref=f15e170] [cursor=pointer]:
+                - /url: /tags/forms/
+                - text: Forms
+                - generic [ref=f15e171]: "8"
+            - listitem [ref=f15e172]:
+              - link "Frames 4" [ref=f15e173] [cursor=pointer]:
+                - /url: /tags/frames/
+                - text: Frames
+                - generic [ref=f15e174]: "4"
+            - listitem [ref=f15e175]:
+              - link "Games 18" [ref=f15e176] [cursor=pointer]:
+                - /url: /tags/games/
+                - text: Games
+                - generic [ref=f15e177]: "18"
+            - listitem [ref=f15e178]:
+              - link "Hover 1" [ref=f15e179] [cursor=pointer]:
+                - /url: /tags/hover/
+                - text: Hover
+                - generic [ref=f15e180]: "1"
+            - listitem [ref=f15e181]:
+              - link "HTML 1" [ref=f15e182] [cursor=pointer]:
+                - /url: /tags/html/
+                - text: HTML
+                - generic [ref=f15e183]: "1"
+            - listitem [ref=f15e184]:
+              - link "HTTP 1" [ref=f15e185] [cursor=pointer]:
+                - /url: /tags/http/
+                - text: HTTP
+                - generic [ref=f15e186]: "1"
+            - listitem [ref=f15e187]:
+              - link "Images 1" [ref=f15e188] [cursor=pointer]:
+                - /url: /tags/images/
+                - text: Images
+                - generic [ref=f15e189]: "1"
+            - listitem [ref=f15e190]:
+              - link "Input 7" [ref=f15e191] [cursor=pointer]:
+                - /url: /tags/input/
+                - text: Input
+                - generic [ref=f15e192]: "7"
+            - listitem [ref=f15e193]:
+              - link "Interaction 49" [ref=f15e194] [cursor=pointer]:
+                - /url: /tags/interaction/
+                - text: Interaction
+                - generic [ref=f15e195]: "49"
+            - listitem [ref=f15e196]:
+              - link "Java 1" [ref=f15e197] [cursor=pointer]:
+                - /url: /tags/java/
+                - text: Java
+                - generic [ref=f15e198]: "1"
+            - listitem [ref=f15e199]:
+              - link "JavaScript 63" [ref=f15e200] [cursor=pointer]:
+                - /url: /tags/javascript/
+                - text: JavaScript
+                - generic [ref=f15e201]: "63"
+            - listitem [ref=f15e202]:
+              - link "JSON 1" [ref=f15e203] [cursor=pointer]:
+                - /url: /tags/json/
+                - text: JSON
+                - generic [ref=f15e204]: "1"
+            - listitem [ref=f15e205]:
+              - link "Local Storage 1" [ref=f15e206] [cursor=pointer]:
+                - /url: /tags/local-storage/
+                - text: Local Storage
+                - generic [ref=f15e207]: "1"
+            - listitem [ref=f15e208]:
+              - link "Locators 19" [ref=f15e209] [cursor=pointer]:
+                - /url: /tags/locators/
+                - text: Locators
+                - generic [ref=f15e210]: "19"
+            - listitem [ref=f15e211]:
+              - link "Mobile 1" [ref=f15e212] [cursor=pointer]:
+                - /url: /tags/mobile/
+                - text: Mobile
+                - generic [ref=f15e213]: "1"
+            - listitem [ref=f15e214]:
+              - link "Navigation 7" [ref=f15e215] [cursor=pointer]:
+                - /url: /tags/navigation/
+                - text: Navigation
+                - generic [ref=f15e216]: "7"
+            - listitem [ref=f15e217]:
+              - link "Randomness 1" [ref=f15e218] [cursor=pointer]:
+                - /url: /tags/randomness/
+                - text: Randomness
+                - generic [ref=f15e219]: "1"
+            - listitem [ref=f15e220]:
+              - link "Security Testing 1" [ref=f15e221] [cursor=pointer]:
+                - /url: /tags/security-testing/
+                - text: Security Testing
+                - generic [ref=f15e222]: "1"
+            - listitem [ref=f15e223]:
+              - link "Shadow Dom 3" [ref=f15e224] [cursor=pointer]:
+                - /url: /tags/shadow-dom/
+                - text: Shadow Dom
+                - generic [ref=f15e225]: "3"
+            - listitem [ref=f15e226]:
+              - link "Storage 5" [ref=f15e227] [cursor=pointer]:
+                - /url: /tags/storage/
+                - text: Storage
+                - generic [ref=f15e228]: "5"
+            - listitem [ref=f15e229]:
+              - link "Synchronization 12" [ref=f15e230] [cursor=pointer]:
+                - /url: /tags/synchronization/
+                - text: Synchronization
+                - generic [ref=f15e231]: "12"
+            - listitem [ref=f15e232]:
+              - link "Table 2" [ref=f15e233] [cursor=pointer]:
+                - /url: /tags/table/
+                - text: Table
+                - generic [ref=f15e234]: "2"
+            - listitem [ref=f15e235]:
+              - link "Test Data 2" [ref=f15e236] [cursor=pointer]:
+                - /url: /tags/test-data/
+                - text: Test Data
+                - generic [ref=f15e237]: "2"
+            - listitem [ref=f15e238]:
+              - link "Text 4" [ref=f15e239] [cursor=pointer]:
+                - /url: /tags/text/
+                - text: Text
+                - generic [ref=f15e240]: "4"
+            - listitem [ref=f15e241]:
+              - link "Tool 3" [ref=f15e242] [cursor=pointer]:
+                - /url: /tags/tool/
+                - text: Tool
+                - generic [ref=f15e243]: "3"
+            - listitem [ref=f15e244]:
+              - link "WebDriver 2" [ref=f15e245] [cursor=pointer]:
+                - /url: /tags/webdriver/
+                - text: WebDriver
+                - generic [ref=f15e246]: "2"
+        - generic [ref=f15e247]:
+          - paragraph [ref=f15e248]: Categories
+          - list [ref=f15e249]:
+            - listitem [ref=f15e250]:
+              - link "Advanced 11" [ref=f15e251] [cursor=pointer]:
+                - /url: /categories/advanced/
+                - text: Advanced
+                - generic [ref=f15e252]: "11"
+            - listitem [ref=f15e253]:
+              - link "Basics 22" [ref=f15e254] [cursor=pointer]:
+                - /url: /categories/basics/
+                - text: Basics
+                - generic [ref=f15e255]: "22"
+            - listitem [ref=f15e256]:
+              - link "Buggy Game 17" [ref=f15e257] [cursor=pointer]:
+                - /url: /categories/buggy-game/
+                - text: Buggy Game
+                - generic [ref=f15e258]: "17"
+            - listitem [ref=f15e259]:
+              - link "Challenges 12" [ref=f15e260] [cursor=pointer]:
+                - /url: /categories/challenges/
+                - text: Challenges
+                - generic [ref=f15e261]: "12"
+            - listitem [ref=f15e262]:
+              - link "Fun and Games 19" [ref=f15e263] [cursor=pointer]:
+                - /url: /categories/fun-and-games/
+                - text: Fun and Games
+                - generic [ref=f15e264]: "19"
+            - listitem [ref=f15e265]:
+              - link "Intermediate 17" [ref=f15e266] [cursor=pointer]:
+                - /url: /categories/intermediate/
+                - text: Intermediate
+                - generic [ref=f15e267]: "17"
+            - listitem [ref=f15e268]:
+              - link "Micro App 33" [ref=f15e269] [cursor=pointer]:
+                - /url: /categories/micro-app/
+                - text: Micro App
+                - generic [ref=f15e270]: "33"
+            - listitem [ref=f15e271]:
+              - link "Reference 6" [ref=f15e272] [cursor=pointer]:
+                - /url: /categories/reference/
+                - text: Reference
+                - generic [ref=f15e273]: "6"
+            - listitem [ref=f15e274]:
+              - link "Tool 3" [ref=f15e275] [cursor=pointer]:
+                - /url: /categories/tool/
+                - text: Tool
+                - generic [ref=f15e276]: "3"
+      - main [ref=f15e277]:
+        - navigation "breadcrumb" [ref=f15e278]:
+          - list [ref=f15e279]:
+            - listitem [ref=f15e280]:
+              - link "Apps" [ref=f15e281] [cursor=pointer]:
+                - /url: /apps/
+            - listitem [ref=f15e282]: / Validated Client Server Form
+        - generic [ref=f15e283]:
+          - heading "Validated Client Server Form" [level=1] [ref=f15e284]
+          - generic [ref=f15e285]:
+            - generic [ref=f15e286]:
+              - paragraph [ref=f15e287]: "Tags:"
+              - list [ref=f15e288]:
+                - listitem [ref=f15e289]:
+                  - link "Exploratory Testing" [ref=f15e290] [cursor=pointer]:
+                    - /url: https://testpages.eviltester.com/tags/exploratory-testing/
+                - listitem [ref=f15e291]:
+                  - link "Interaction" [ref=f15e292] [cursor=pointer]:
+                    - /url: https://testpages.eviltester.com/tags/interaction/
+                - listitem [ref=f15e293]:
+                  - link "JavaScript" [ref=f15e294] [cursor=pointer]:
+                    - /url: https://testpages.eviltester.com/tags/javascript/
+                - listitem [ref=f15e295]:
+                  - link "API" [ref=f15e296] [cursor=pointer]:
+                    - /url: https://testpages.eviltester.com/tags/api/
+            - generic [ref=f15e297]:
+              - paragraph [ref=f15e298]: "Categories:"
+              - list [ref=f15e299]:
+                - listitem [ref=f15e300]:
+                  - link "Micro App" [ref=f15e301] [cursor=pointer]:
+                    - /url: https://testpages.eviltester.com/categories/micro-app/
+          - generic [ref=f15e302]:
+            - paragraph [ref=f15e303]: This page combines JavaScript validation and Server side validation. This should make it more robust because if someone switches off JavaScript the input is still validated.
+            - paragraph [ref=f15e304]: For exploratory testing, this page may have been coded with some bugs.
+            - paragraph [ref=f15e305]: For automating, it is a relatively simple form with a submission.
+          - separator [ref=f15e306]
+          - heading "The Input Form" [level=2] [ref=f15e307]
+          - paragraph [ref=f15e308]: The information will be submitted to the server if it passes client side validation.
+          - generic [ref=f15e310]:
+            - generic [ref=f15e311]: "First name:"
+            - textbox "First name:" [ref=f15e312]
+            - generic [ref=f15e313]: "Last name:"
+            - textbox "Last name:" [ref=f15e314]
+            - generic [ref=f15e315]: "Age:"
+            - spinbutton "Age:" [ref=f15e316]
+            - generic [ref=f15e317]: "Country:"
+            - combobox "Country:" [ref=f15e318]:
+              - option "Afghanistan" [selected]
+              - option "Albania"
+              - option "Algeria"
+              - option "Andorra"
+              - option "Angola"
+              - option "Antigua and Barbuda"
+              - option "Argentina"
+              - option "Armenia"
+              - option "Australia"
+              - option "Austria"
+              - option "Azerbaijan"
+              - option "Bahamas"
+              - option "Bahrain"
+              - option "Bangladesh"
+              - option "Barbados"
+              - option "Belarus"
+              - option "Belgium"
+              - option "Belize"
+              - option "Benin"
+              - option "Bhutan"
+              - option "Bolivia"
+              - option "Bosnia and Herzegovina"
+              - option "Botswana"
+              - option "Brazil"
+              - option "Brunei"
+              - option "Bulgaria"
+              - option "Burkina Faso"
+              - option "Burundi"
+              - option "Côte d'Ivoire"
+              - option "Cabo Verde"
+              - option "Cambodia"
+              - option "Cameroon"
+              - option "Canada"
+              - option "Central African Republic"
+              - option "Chad"
+              - option "Chile"
+              - option "China"
+              - option "Colombia"
+              - option "Comoros"
+              - option "Congo (Congo-Brazzaville)"
+              - option "Costa Rica"
+              - option "Croatia"
+              - option "Cuba"
+              - option "Cyprus"
+              - option "Czechia (Czech Republic)"
+              - option "Democratic Republic of the Congo"
+              - option "Denmark"
+              - option "Djibouti"
+              - option "Dominica"
+              - option "Dominican Republic"
+              - option "Ecuador"
+              - option "Egypt"
+              - option "El Salvador"
+              - option "Equatorial Guinea"
+              - option "Eritrea"
+              - option "Estonia"
+              - option "Eswatini (fmr. \"Swaziland\")"
+              - option "Ethiopia"
+              - option "Fiji"
+              - option "Finland"
+              - option "France"
+              - option "Gabon"
+              - option "Gambia"
+              - option "Georgia"
+              - option "Germany"
+              - option "Ghana"
+              - option "Greece"
+              - option "Grenada"
+              - option "Guatemala"
+              - option "Guinea"
+              - option "Guinea-Bissau"
+              - option "Guyana"
+              - option "Haiti"
+              - option "Holy See"
+              - option "Honduras"
+              - option "Hungary"
+              - option "Iceland"
+              - option "India"
+              - option "Indonesia"
+              - option "Iran"
+              - option "Iraq"
+              - option "Ireland"
+              - option "Israel"
+              - option "Italy"
+              - option "Jamaica"
+              - option "Japan"
+              - option "Jordan"
+              - option "Kazakhstan"
+              - option "Kenya"
+              - option "Kiribati"
+              - option "Kuwait"
+              - option "Kyrgyzstan"
+              - option "Laos"
+              - option "Latvia"
+              - option "Lebanon"
+              - option "Lesotho"
+              - option "Liberia"
+              - option "Libya"
+              - option "Liechtenstein"
+              - option "Lithuania"
+              - option "Luxembourg"
+              - option "Madagascar"
+              - option "Malawi"
+              - option "Malaysia"
+              - option "Maldives"
+              - option "Mali"
+              - option "Malta"
+              - option "Marshall Islands"
+              - option "Mauritania"
+              - option "Mauritius"
+              - option "Mexico"
+              - option "Micronesia"
+              - option "Moldova"
+              - option "Monaco"
+              - option "Mongolia"
+              - option "Montenegro"
+              - option "Morocco"
+              - option "Mozambique"
+              - option "Myanmar (formerly Burma)"
+              - option "Namibia"
+              - option "Nauru"
+              - option "Nepal"
+              - option "Netherlands"
+              - option "New Zealand"
+              - option "Nicaragua"
+              - option "Niger"
+              - option "Nigeria"
+              - option "North Korea"
+              - option "North Macedonia"
+              - option "Norway"
+              - option "Oman"
+              - option "Pakistan"
+              - option "Palau"
+              - option "Palestine State"
+              - option "Panama"
+              - option "Papua New Guinea"
+              - option "Paraguay"
+              - option "Peru"
+              - option "Philippines"
+              - option "Poland"
+              - option "Portugal"
+              - option "Qatar"
+              - option "Romania"
+              - option "Russia"
+              - option "Rwanda"
+              - option "Saint Kitts and Nevis"
+              - option "Saint Lucia"
+              - option "Saint Vincent and the Grenadines"
+              - option "Samoa"
+              - option "San Marino"
+              - option "Sao Tome and Principe"
+              - option "Saudi Arabia"
+              - option "Senegal"
+              - option "Serbia"
+              - option "Seychelles"
+              - option "Sierra Leone"
+              - option "Singapore"
+              - option "Slovakia"
+              - option "Slovenia"
+              - option "Solomon Islands"
+              - option "Somalia"
+              - option "South Africa"
+              - option "South Korea"
+              - option "South Sudan"
+              - option "Spain"
+              - option "Sri Lanka"
+              - option "Sudan"
+              - option "Suriname"
+              - option "Sweden"
+              - option "Switzerland"
+              - option "Syria"
+              - option "Tajikistan"
+              - option "Tanzania"
+              - option "Thailand"
+              - option "Timor-Leste"
+              - option "Togo"
+              - option "Tonga"
+              - option "Trinidad and Tobago"
+              - option "Tunisia"
+              - option "Turkey"
+              - option "Turkmenistan"
+              - option "Tuvalu"
+              - option "Uganda"
+              - option "Ukraine"
+              - option "United Arab Emirates"
+              - option "United Kingdom"
+              - option "United States of America"
+              - option "Uruguay"
+              - option "Uzbekistan"
+              - option "Vanuatu"
+              - option "Venezuela"
+              - option "Vietnam"
+              - option "Yemen"
+              - option "Zambia"
+              - option "Zimbabwe"
+            - generic [ref=f15e319]: "Notes:"
+            - textbox "Notes:" [ref=f15e320]
+            - button "Submit" [ref=f15e321] [cursor=pointer]
+          - generic [ref=f15e322]:
+            - separator [ref=f15e323]
+            - generic [ref=f15e324]:
+              - paragraph [ref=f15e325]:
+                - link "Client Server Form Validation - Instructions" [ref=f15e326] [cursor=pointer]:
+                  - /url: /apps/client-server-form-validation/client-server-form-validation-instructions/
+              - paragraph
+    - contentinfo [ref=f15e327]:
+      - generic [ref=f15e328]:
+        - paragraph [ref=f15e329]:
+          - text: Help keep this site free by joining our
+          - link "Patreon Membership site" [ref=f15e330] [cursor=pointer]:
+            - /url: https://patreon.com/eviltester
+          - text: . Membership costs as little as $1 a month and includes access to exclusive
+          - link "e-books and online training courses" [ref=f15e331] [cursor=pointer]:
+            - /url: https://www.testerhq.com/
+          - text: .
+        - paragraph [ref=f15e332]:
+          - text: If you'd like to see your advertising message here or learn about corporate sponsorship then
+          - link "Contact Us" [ref=f15e333] [cursor=pointer]:
+            - /url: https://linkedin.com/in/eviltester
+          - text: .
+      - generic [ref=f15e335]:
+        - list [ref=f15e337]:
+          - listitem "Twitter" [ref=f15e338]:
+            - link "Twitter" [ref=f15e339] [cursor=pointer]:
+              - /url: https://twitter.com/eviltester
+              - generic [ref=f15e340]: 
+          - listitem "LinkedIn" [ref=f15e341]:
+            - link "LinkedIn" [ref=f15e342] [cursor=pointer]:
+              - /url: https://linkedin.com/in/eviltester
+              - generic [ref=f15e343]: 
+        - list [ref=f15e345]:
+          - listitem "GitHub" [ref=f15e346]:
+            - link "GitHub" [ref=f15e347] [cursor=pointer]:
+              - /url: https://github.com/eviltester
+              - generic [ref=f15e348]: 
+        - generic [ref=f15e349]:
+          - generic [ref=f15e350]: © 2025–2026 Compendium Developments Ltd
+          - link "Privacy Policy" [ref=f15e352] [cursor=pointer]:
+            - /url: https://www.eviltester.com/page/privacy/
