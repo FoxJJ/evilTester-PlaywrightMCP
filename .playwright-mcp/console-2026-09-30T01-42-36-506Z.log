@@ -1,0 +1,2 @@
+[    1978ms] [ERROR] Permissions policy violation: compute-pressure is not allowed in this document. @ https://www.youtube.com/s/player/57bae81f/player_embed_es6.vflset/en_US/base.js:5405
+[    2758ms] [WARNING] The powerPreference option is currently ignored when calling requestAdapter() on Windows. See https://crbug.com/369219127 @ :0

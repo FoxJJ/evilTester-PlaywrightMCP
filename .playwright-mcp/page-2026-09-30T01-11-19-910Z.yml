@@ -1,0 +1,371 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - link "Skip to main content" [ref=e3] [cursor=pointer]:
+      - /url: "#skip-to-main-content"
+    - navigation "Site menu" [ref=e5]:
+      - list [ref=e7]:
+        - listitem [ref=e8]:
+          - link "Home" [ref=e9] [cursor=pointer]:
+            - /url: /
+        - listitem [ref=e10]:
+          - link "Blog" [ref=e11] [cursor=pointer]:
+            - /url: /blog/
+        - listitem [ref=e12]:
+          - link "Books" [ref=e13] [cursor=pointer]:
+            - /url: /page/books/
+        - listitem [ref=e14]:
+          - link "Online Training" [ref=e15] [cursor=pointer]:
+            - /url: /page/onlinetraining/courses/
+        - listitem [ref=e16]:
+          - link "Patreon" [ref=e17] [cursor=pointer]:
+            - /url: /page/patreon/
+        - listitem [ref=e18]:
+          - link "Talks" [ref=e19] [cursor=pointer]:
+            - /url: /conference/
+        - listitem [ref=e20]:
+          - link "Tools" [ref=e21] [cursor=pointer]:
+            - /url: /page/tools/
+        - listitem [ref=e22]:
+          - link "Podcast" [ref=e23] [cursor=pointer]:
+            - /url: /show/
+        - listitem [ref=e24]:
+          - link "Videos" [ref=e25] [cursor=pointer]:
+            - /url: https://www.youtube.com/user/EvilTesterVideos?sub_confirmation=1&cbrd=1&ucbcb=1
+        - listitem [ref=e26]:
+          - link "Contact" [ref=e27] [cursor=pointer]:
+            - /url: /page/contact/
+  - main [ref=e28]:
+    - generic [ref=e29]:
+      - heading "Software Development Consultancy and Training" [level=1] [ref=e30]
+      - heading "Recent Blog Posts" [level=2] [ref=e31]
+      - generic [ref=e32]:
+        - link [ref=e33] [cursor=pointer]:
+          - /url: https://www.eviltester.com/show/033-quern-jerimiah-ham/
+          - img "Quern - Jerimiah Ham | Show 033" [ref=e34]
+        - link [ref=e35] [cursor=pointer]:
+          - /url: https://www.eviltester.com/blog/eviltester/apichallenges/2026-08-20-how-i-coded-api-from-hell/
+          - img "How to write an API From Hell or how to send a bad HTTP Response" [ref=e36]
+        - link [ref=e37] [cursor=pointer]:
+          - /url: https://www.eviltester.com/blog/eviltester/trailofcode/boomstash-initial-architecture/
+          - img "A Trail of Code - Boomstash" [ref=e38]
+        - link [ref=e39] [cursor=pointer]:
+          - /url: https://www.eviltester.com/show/032-trowser-rikard-edgren/
+          - img "Trowser - Rikard Edgren | Show 032" [ref=e40]
+        - link [ref=e41] [cursor=pointer]:
+          - /url: https://www.eviltester.com/blog/eviltester/apichallenges/api-from-hell-overview/
+          - img "API From Hell Shows Your API Client is Lying to you" [ref=e42]
+    - generic [ref=e43]:
+      - list [ref=e45]:
+        - listitem [ref=e46]:
+          - link "Quern - Jerimiah Ham | Show 033" [ref=e47] [cursor=pointer]:
+            - /url: https://www.eviltester.com/show/033-quern-jerimiah-ham/
+        - listitem [ref=e48]:
+          - link "How to write an API From Hell or how to send a bad HTTP Response" [ref=e49] [cursor=pointer]:
+            - /url: https://www.eviltester.com/blog/eviltester/apichallenges/2026-08-20-how-i-coded-api-from-hell/
+        - listitem [ref=e50]:
+          - link "A Trail of Code - Boomstash" [ref=e51] [cursor=pointer]:
+            - /url: https://www.eviltester.com/blog/eviltester/trailofcode/boomstash-initial-architecture/
+        - listitem [ref=e52]:
+          - link "Trowser - Rikard Edgren | Show 032" [ref=e53] [cursor=pointer]:
+            - /url: https://www.eviltester.com/show/032-trowser-rikard-edgren/
+        - listitem [ref=e54]:
+          - link "API From Hell Shows Your API Client is Lying to you" [ref=e55] [cursor=pointer]:
+            - /url: https://www.eviltester.com/blog/eviltester/apichallenges/api-from-hell-overview/
+      - list [ref=e57]:
+        - listitem [ref=e58]:
+          - link "Testing Exercises for an AI Chat Bot" [ref=e59] [cursor=pointer]:
+            - /url: https://www.eviltester.com/blog/eviltester/testpages/ai-chat-bot/
+        - listitem [ref=e60]:
+          - link "API Challenges with Swagger UI and Simulator Requests" [ref=e61] [cursor=pointer]:
+            - /url: https://www.eviltester.com/blog/eviltester/apichallenges/2026-07-17-api-challenges-updates/
+        - listitem [ref=e62]:
+          - link "How I AI - Automated AI Interactive Review" [ref=e63] [cursor=pointer]:
+            - /url: https://www.eviltester.com/blog/eviltester/ai/how-i-ai/2026-06-30-ai-automated-interactive-review/
+        - listitem [ref=e64]:
+          - link "How I AI - A Working Position on 20260626" [ref=e65] [cursor=pointer]:
+            - /url: https://www.eviltester.com/blog/eviltester/ai/how-i-ai/2026-06-26-how-i-use-ai-today/
+        - listitem [ref=e66]:
+          - link "API Spector Open Source API Testing Tool" [ref=e67] [cursor=pointer]:
+            - /url: https://www.eviltester.com/blog/eviltester/apichallenges/2026-04-14-api-spector-first-look/
+    - paragraph [ref=e69]:
+      - link [ref=e70] [cursor=pointer]:
+        - /url: /blog/
+        - img "Open book icon" [ref=e71]
+        - text: Read The Blog
+    - separator [ref=e72]
+    - generic [ref=e73]:
+      - heading "Software Testing Practice Sites" [level=2] [ref=e74]
+      - paragraph [ref=e75]: Our free to use, self training sites on Web and API Testing (and Automating) are listed below. Both have sample applications and APIs, tutorials, videos, reference guides and exercises to work through.
+      - generic [ref=e76]:
+        - generic [ref=e77]:
+          - heading "Test Pages" [level=3] [ref=e78]
+          - paragraph [ref=e79]:
+            - text: Web Testing and Automating Learning site with free practice applications, tutorials, videos and reference information. Visit our Web Testing and Automating site at
+            - link "testpages.eviltester.com" [ref=e80] [cursor=pointer]:
+              - /url: https://testpages.eviltester.com
+          - link [ref=e81] [cursor=pointer]:
+            - /url: https://testpages.eviltester.com
+            - img "Screenshot of the Test Pages practice site" [ref=e82]
+          - paragraph [ref=e83]:
+            - link "Improve your Web Testing" [ref=e84] [cursor=pointer]:
+              - /url: https://testpages.eviltester.com
+        - generic [ref=e85]:
+          - heading "API Challenges" [level=3] [ref=e86]
+          - paragraph [ref=e87]:
+            - text: API Testing and Automating Learning site with free practice APIs, step by step tutorials, videos, tool reviews and reference information. Find our API Testing and Automating site at
+            - link "apichallenges.com" [ref=e88] [cursor=pointer]:
+              - /url: https://apichallenges.com
+          - link [ref=e89] [cursor=pointer]:
+            - /url: https://apichallenges.com
+            - img "Screenshot of the API Challenges learning site" [ref=e90]
+          - paragraph [ref=e91]:
+            - link "Improve your API Testing" [ref=e92] [cursor=pointer]:
+              - /url: https://apichallenges.com
+    - separator [ref=e93]
+    - generic [ref=e94]:
+      - heading "Software Testing and Development Podcast Summary Sites" [level=2] [ref=e95]
+      - paragraph [ref=e96]: We have summary sites which subscribe to, and then summarize, Software Testing, Development, Product and Business Podcasts. The Summaries are AI generated but contain actionable insights and you can make a more informed decision to listen to the podcast.
+      - generic [ref=e97]:
+        - generic [ref=e98]:
+          - heading "TesterHq - Software Testing Podcasts" [level=3] [ref=e99]
+          - paragraph [ref=e100]:
+            - text: Software Testing Podcast summaries and EvilTester Patreon exclusive online courses at
+            - link "TesterHq.com" [ref=e101] [cursor=pointer]:
+              - /url: https://testerhq.com
+          - link [ref=e102] [cursor=pointer]:
+            - /url: https://testerhq.com
+            - img "Screenshot of the TestHQ Podcast summary and Patreon bonus site" [ref=e103]
+          - paragraph [ref=e104]:
+            - link "Keep up to date with Software Testing" [ref=e105] [cursor=pointer]:
+              - /url: https://testerhq.com
+        - generic [ref=e106]:
+          - heading "Boomstash - Business and Development Podcasts" [level=3] [ref=e107]
+          - paragraph [ref=e108]:
+            - text: BoomStash hosts AI generated podcast summaries of human curated episodes.
+            - link "BoomStash.com" [ref=e109] [cursor=pointer]:
+              - /url: https://boomstash.com
+          - link [ref=e110] [cursor=pointer]:
+            - /url: https://boomstash.com
+            - img "Screenshot of the BoomStash.com podcast site" [ref=e111]
+          - paragraph [ref=e112]:
+            - link "Keep up to date with the world of Software Development" [ref=e113] [cursor=pointer]:
+              - /url: https://boomstash.com
+    - separator [ref=e114]
+    - generic [ref=e115]:
+      - heading "Patreon Membership - Exclusive Online Training for Only $1 a Month" [level=2] [ref=e116]
+      - generic [ref=e117]:
+        - generic [ref=e118]:
+          - paragraph [ref=e119]: I use Patreon as a community membership site to support people who are serious about improving their testing skills. Content built using community feedback it contains exclusive Patreon videos, tutorials and courses. As little as $1 monthly gives you immediate access to the material and community Q&A features.
+          - list [ref=e120]:
+            - listitem [ref=e121]: Exclusive online training courses (10+)
+            - listitem [ref=e122]: Exclusive e-books
+            - listitem [ref=e123]: Exclusive tutorial videos
+            - listitem [ref=e124]: Access to our YouTube content ad-free
+            - listitem [ref=e125]: And more...
+          - paragraph [ref=e126]:
+            - link "Learn about our Exclusive Patreon Content" [ref=e127] [cursor=pointer]:
+              - /url: /page/patreon/
+        - link "Patreon content preview" [ref=e129] [cursor=pointer]:
+          - /url: https://www.patreon.com/eviltester
+    - generic [ref=e131]:
+      - heading "Online Training" [level=2] [ref=e132]
+      - generic [ref=e133]:
+        - link [ref=e135] [cursor=pointer]:
+          - /url: /page/onlinetraining/courses/#selenium-webdriver-page-objects-and-abstractions
+          - img "Selenium WebDriver Page Objects Course on LinkedIn Learning" [ref=e136]
+        - link [ref=e138] [cursor=pointer]:
+          - /url: /page/onlinetraining/courses/#evil-tester-talks-testing
+          - img "Technical Web Testing 101 Course" [ref=e139]
+        - link [ref=e141] [cursor=pointer]:
+          - /url: /page/onlinetraining/techwebtesting101/
+          - img "Evil Tester Talks Testing Course" [ref=e142]
+      - generic [ref=e143]:
+        - link [ref=e145] [cursor=pointer]:
+          - /url: /page/onlinetraining/courses/#selenium-webdriver-support-classes-with-java
+          - img "Selenium WebDriver Support Classes with Java Course" [ref=e146]
+        - link [ref=e148] [cursor=pointer]:
+          - /url: /page/onlinetraining/courses/#automating-in-the-browser-with-javascript
+          - img "Automating in the Browser with JavaScript Course" [ref=e149]
+        - link [ref=e151] [cursor=pointer]:
+          - /url: /page/onlinetraining/courses/#test-ability-audit
+          - img "Evil Tester's Test Ability Audit Course" [ref=e152]
+      - generic [ref=e153]:
+        - link [ref=e155] [cursor=pointer]:
+          - /url: /page/onlinetraining/courses/#selenium-webdriver-synchronisation
+          - img "Selenium WebDriver Synchronisation Course" [ref=e156]
+        - link [ref=e158] [cursor=pointer]:
+          - /url: /page/onlinetraining/courses/#get-your-message-out
+          - img "Get Your Message Out Course" [ref=e159]
+        - link [ref=e161] [cursor=pointer]:
+          - /url: /page/onlinetraining/courses/#how-i-test-web-app
+          - img "How I Test Web Apps Course" [ref=e162]
+      - paragraph [ref=e163]:
+        - link "Even more online training courses" [ref=e164] [cursor=pointer]:
+          - /url: /page/onlinetraining/courses/
+    - generic [ref=e172]:
+      - heading "Free Ebook - Hacking JavaScript" [level=3] [ref=e173]
+      - paragraph [ref=e174]: 60+ pages on learning JavaScript in the Browser Console for Hacking, Manipulating and Automating in the browser.
+      - button "Download Now" [ref=e175] [cursor=pointer]
+    - separator [ref=e176]
+    - generic [ref=e177]:
+      - heading "Books written by Alan Richardson" [level=2] [ref=e178]
+      - generic [ref=e179]:
+        - generic [ref=e180]:
+          - generic [ref=e181]:
+            - link [ref=e182] [cursor=pointer]:
+              - /url: /page/books/automating-testing-api-casestudy/
+              - img "Automating And Testing API Book Cover" [ref=e183]
+            - heading [level=3] [ref=e184]:
+              - link "Automating and Testing a REST API" [ref=e185] [cursor=pointer]:
+                - /url: /page/books/automating-testing-api-casestudy/
+            - paragraph [ref=e186]: "A Case study of Testing and Automating the Open Source Tracks REST API using: Java, RestAssured, Postman, cURL and HTTP Proxies"
+          - generic [ref=e187]:
+            - link [ref=e188] [cursor=pointer]:
+              - /url: /page/deareviltester/
+              - img "Dear Evil Tester Book Cover" [ref=e189]
+            - heading [level=3] [ref=e190]:
+              - link "Dear Evil Tester" [ref=e191] [cursor=pointer]:
+                - /url: /page/deareviltester/
+            - paragraph [ref=e192]: "\"Dear Evil Tester\" contains answers to questions that you didn't know testers asked."
+          - generic [ref=e193]:
+            - link [ref=e194] [cursor=pointer]:
+              - /url: /page/books/java-for-testers/
+              - img "Java For Testers Book Cover" [ref=e195]
+            - heading [level=3] [ref=e196]:
+              - link "Java For Testers" [ref=e197] [cursor=pointer]:
+                - /url: /page/books/java-for-testers/
+            - paragraph [ref=e198]: Learn to program Java by writing tests.
+        - paragraph [ref=e199]:
+          - link "Learn more about the books" [ref=e200] [cursor=pointer]:
+            - /url: /page/books/
+    - separator [ref=e201]
+    - generic [ref=e202]:
+      - heading "Podcast - The Evil Tester Show" [level=2] [ref=e203]
+      - generic [ref=e204]:
+        - generic [ref=e205]:
+          - paragraph [ref=e206]: An Audio and Visual Podcast about Software Testing with a different attitude.
+          - paragraph [ref=e207]:
+            - link "The Podcast Episodes & Show Notes" [ref=e208] [cursor=pointer]:
+              - /url: /show/
+        - generic [ref=e210]:
+          - article [ref=e211]:
+            - heading [level=3] [ref=e212]:
+              - link "Quern - Jerimiah Ham | Show 033" [ref=e213] [cursor=pointer]:
+                - /url: /show/033-quern-jerimiah-ham/
+            - generic [ref=e214]:
+              - link "View show notes for Quern - Jerimiah Ham | Show 033" [ref=e215] [cursor=pointer]:
+                - /url: /show/033-quern-jerimiah-ham/
+              - generic [ref=e216]:
+                - paragraph [ref=e217]: Jerimiah Ham and his new Free AI enabled Mobile Automating and Testing tool called Quern
+                - list [ref=e218]:
+                  - listitem [ref=e219]:
+                    - link "Show notes for Quern - Jerimiah Ham | Show 033" [ref=e220] [cursor=pointer]:
+                      - /url: /show/033-quern-jerimiah-ham/
+                      - text: Show Notes
+                  - listitem [ref=e221]:
+                    - link "Download and listen to Quern - Jerimiah Ham | Show 033 as a podcast" [ref=e222] [cursor=pointer]:
+                      - /url: https://pod.co/the-evil-tester-show/quern-dev-jerimiah-ham-ai-mobile-testing
+                      - text: Download and Listen to the show as a podcast
+                  - listitem [ref=e223]:
+                    - link "Watch Quern - Jerimiah Ham | Show 033 on YouTube" [ref=e224] [cursor=pointer]:
+                      - /url: https://youtu.be/sXm0i2rC6-k
+                      - text: Watch The Show on YouTube
+          - separator [ref=e225]
+          - article [ref=e226]:
+            - heading [level=3] [ref=e227]:
+              - link "Trowser - Rikard Edgren | Show 032" [ref=e228] [cursor=pointer]:
+                - /url: /show/032-trowser-rikard-edgren/
+            - generic [ref=e229]:
+              - link "View show notes for Trowser - Rikard Edgren | Show 032" [ref=e230] [cursor=pointer]:
+                - /url: /show/032-trowser-rikard-edgren/
+              - generic [ref=e231]:
+                - paragraph [ref=e232]: Rikard Edgren and his new Free AI enabled Web Browser designed for software testers called Trowser
+                - list [ref=e233]:
+                  - listitem [ref=e234]:
+                    - link "Show notes for Trowser - Rikard Edgren | Show 032" [ref=e235] [cursor=pointer]:
+                      - /url: /show/032-trowser-rikard-edgren/
+                      - text: Show Notes
+                  - listitem [ref=e236]:
+                    - link "Download and listen to Trowser - Rikard Edgren | Show 032 as a podcast" [ref=e237] [cursor=pointer]:
+                      - /url: https://pod.co/the-evil-tester-show/trowser-the-software-testers-browser-with-rikard-edgren
+                      - text: Download and Listen to the show as a podcast
+                  - listitem [ref=e238]:
+                    - link "Watch Trowser - Rikard Edgren | Show 032 on YouTube" [ref=e239] [cursor=pointer]:
+                      - /url: https://youtu.be/ZCcg6cS8gOI
+                      - text: Watch The Show on YouTube
+          - separator [ref=e240]
+          - article [ref=e241]:
+            - heading [level=3] [ref=e242]:
+              - link "AI and Software Testing with the Tech League | Show 031" [ref=e243] [cursor=pointer]:
+                - /url: /show/031-eviltester-tech-league-teamup/
+            - generic [ref=e244]:
+              - link "View show notes for AI and Software Testing with the Tech League | Show 031" [ref=e245] [cursor=pointer]:
+                - /url: /show/031-eviltester-tech-league-teamup/
+              - generic [ref=e246]:
+                - paragraph [ref=e247]: A senior level technical discussion about AI, Testing, Dev Ops and Software Development.
+                - list [ref=e248]:
+                  - listitem [ref=e249]:
+                    - link "Show notes for AI and Software Testing with the Tech League | Show 031" [ref=e250] [cursor=pointer]:
+                      - /url: /show/031-eviltester-tech-league-teamup/
+                      - text: Show Notes
+                  - listitem [ref=e251]:
+                    - link "Download and listen to AI and Software Testing with the Tech League | Show 031 as a podcast" [ref=e252] [cursor=pointer]:
+                      - /url: https://pod.co/the-evil-tester-show/ai-and-software-testing-evil-tester-meets-tech-league
+                      - text: Download and Listen to the show as a podcast
+                  - listitem [ref=e253]:
+                    - link "Watch AI and Software Testing with the Tech League | Show 031 on YouTube" [ref=e254] [cursor=pointer]:
+                      - /url: https://youtu.be/0TQ4a_0Lu28
+                      - text: Watch The Show on YouTube
+          - separator [ref=e255]
+          - paragraph [ref=e256]:
+            - link "More Episodes" [ref=e257] [cursor=pointer]:
+              - /url: /show/
+    - generic [ref=e258]:
+      - heading "Mailing List" [level=2] [ref=e259]
+      - generic [ref=e262]:
+        - generic [ref=e266]:
+          - generic [ref=e267]: Subscribe to our mailing list
+          - textbox "Subscribe to our mailing list" [ref=e268]:
+            - /placeholder: email address
+          - textbox [ref=e270]
+          - button "Subscribe" [ref=e272]
+        - paragraph [ref=e273]:
+          - link "Email List Privacy Policy" [ref=e274] [cursor=pointer]:
+            - /url: /page/emaillist/
+        - paragraph [ref=e275]:
+          - link "Join \"The Evil Tester\" Email List" [ref=e276] [cursor=pointer]:
+            - /url: /page/emaillist/
+  - contentinfo [ref=e278]:
+    - generic [ref=e279]:
+      - paragraph [ref=e281]:
+        - text: © Alan Richardson,
+        - link "Compendium Developments Ltd" [ref=e282] [cursor=pointer]:
+          - /url: https://compendiumdev.co.uk
+        - text: 2026 -
+        - link "Privacy Policy" [ref=e283] [cursor=pointer]:
+          - /url: /page/privacy/
+        - text: "|"
+        - link "Contact Us" [ref=e284] [cursor=pointer]:
+          - /url: /page/contact/
+      - paragraph [ref=e288]:
+        - link [ref=e289] [cursor=pointer]:
+          - /url: /page/contact/
+          - img "Connect via email" [ref=e290]
+        - link [ref=e291] [cursor=pointer]:
+          - /url: https://twitter.com/eviltester
+          - img "Follow on Twitter" [ref=e292]
+        - link [ref=e293] [cursor=pointer]:
+          - /url: https://www.youtube.com/user/EvilTesterVideos?sub_confirmation=1&cbrd=1&ucbcb=1
+          - img "Subscribe to my YouTube Channel" [ref=e294]
+        - link [ref=e295] [cursor=pointer]:
+          - /url: https://uk.linkedin.com/in/eviltester
+          - img "Connect on LinkedIn" [ref=e296]
+        - link [ref=e297] [cursor=pointer]:
+          - /url: https://github.com/eviltester
+          - img "Follow on GitHub" [ref=e298]
+        - link [ref=e299] [cursor=pointer]:
+          - /url: https://www.instagram.com/eviltester/
+          - img "Follow on Instagram" [ref=e300]
+        - link [ref=e301] [cursor=pointer]:
+          - /url: /index.xml
+          - img "Subscribe to my RSS Feed" [ref=e302]

@@ -1,0 +1,639 @@
+- generic [active] [ref=f10e1]:
+  - banner [ref=f10e2]:
+    - navigation [ref=f10e3]:
+      - generic [ref=f10e4]:
+        - link [ref=f10e5] [cursor=pointer]:
+          - /url: /
+          - img [ref=f10e7]:
+            - generic "Test Pages" [ref=f10e10]
+            - generic "PRACTICE SOFTWARE TESTING" [ref=f10e11]
+        - list [ref=f10e13]:
+          - listitem [ref=f10e14]:
+            - link "Pages" [ref=f10e15] [cursor=pointer]:
+              - /url: /pages/
+          - listitem [ref=f10e16]:
+            - link "Apps" [ref=f10e17] [cursor=pointer]:
+              - /url: /apps/
+          - listitem [ref=f10e18]:
+            - link "Fun and Games" [ref=f10e19] [cursor=pointer]:
+              - /url: /fun-and-games/
+          - listitem [ref=f10e20]:
+            - link "Tools" [ref=f10e21] [cursor=pointer]:
+              - /url: /tools/
+          - listitem [ref=f10e22]:
+            - link "Challenges" [ref=f10e23] [cursor=pointer]:
+              - /url: /challenges/
+          - listitem [ref=f10e24]:
+            - link "Reference Information and Tutorials" [ref=f10e25] [cursor=pointer]:
+              - /url: /reference/
+    - generic [ref=f10e26]:
+      - text: Support this site by joining our Patreon. For as little as $1 a month you receive exclusive ad-free content, ebooks and online training courses. —
+      - link "Learn more" [ref=f10e27] [cursor=pointer]:
+        - /url: https://patreon.com/eviltester
+  - generic [ref=f10e28]:
+    - generic [ref=f10e30]:
+      - complementary [ref=f10e31]:
+        - generic [ref=f10e32]:
+          - text: 
+          - navigation [ref=f10e33]:
+            - list [ref=f10e34]:
+              - listitem [ref=f10e35]:
+                - link "Practice Pages" [ref=f10e36] [cursor=pointer]:
+                  - /url: /
+                - list [ref=f10e37]:
+                  - listitem [ref=f10e38]:
+                    - generic [ref=f10e39]:
+                      - text: 
+                      - link "Pages" [ref=f10e40] [cursor=pointer]:
+                        - /url: /pages/
+                    - text:                                                                   
+                  - listitem [ref=f10e41]:
+                    - generic [ref=f10e42]:
+                      - text: 
+                      - link "Apps" [ref=f10e43] [cursor=pointer]:
+                        - /url: /apps/
+                    - list [ref=f10e44]:
+                      - listitem [ref=f10e45]:
+                        - generic [ref=f10e46]:
+                          - text: 
+                          - link "Triangle" [ref=f10e47] [cursor=pointer]:
+                            - /url: /apps/triangle/
+                      - listitem [ref=f10e48]:
+                        - generic [ref=f10e49]:
+                          - text: 
+                          - link "7 Char Val" [ref=f10e50] [cursor=pointer]:
+                            - /url: /apps/7-char-val/
+                      - listitem [ref=f10e51]:
+                        - generic [ref=f10e52]:
+                          - text: 
+                          - link "Shopping Cart" [ref=f10e53] [cursor=pointer]:
+                            - /url: /apps/basiccart/
+                      - listitem [ref=f10e54]:
+                        - generic [ref=f10e55]:
+                          - text: 
+                          - link "AI Chat Bot" [ref=f10e56] [cursor=pointer]:
+                            - /url: /apps/ai-chat-bot/
+                      - listitem [ref=f10e57]:
+                        - generic [ref=f10e58]:
+                          - text: 
+                          - link "Button Calculator" [ref=f10e59] [cursor=pointer]:
+                            - /url: /apps/button-calculator/
+                      - listitem [ref=f10e60]:
+                        - generic [ref=f10e61]:
+                          - text: 
+                          - link "Canvas Draw" [ref=f10e62] [cursor=pointer]:
+                            - /url: /apps/canvas-draw/
+                      - listitem [ref=f10e63]:
+                        - generic [ref=f10e64]:
+                          - text: 
+                          - link "Canvas Scribble" [ref=f10e65] [cursor=pointer]:
+                            - /url: /apps/canvas-scribble/
+                      - listitem [ref=f10e66]:
+                        - generic [ref=f10e67]:
+                          - text: 
+                          - link "Validated Client Server Form" [ref=f10e68] [cursor=pointer]:
+                            - /url: /apps/client-server-form-validation/
+                      - listitem [ref=f10e69]:
+                        - generic [ref=f10e70]:
+                          - text: 
+                          - link "HTML Table Generator" [ref=f10e71] [cursor=pointer]:
+                            - /url: /apps/html-table-generator/
+                      - listitem [ref=f10e72]:
+                        - generic [ref=f10e73]:
+                          - text: 
+                          - link "Grammar Data Gen" [ref=f10e74] [cursor=pointer]:
+                            - /url: /apps/grammar-data-gen/
+                      - listitem [ref=f10e75]:
+                        - generic [ref=f10e76]:
+                          - text: 
+                          - link "Countdown Timer" [ref=f10e77] [cursor=pointer]:
+                            - /url: /apps/countdown-timer/
+                      - listitem [ref=f10e78]:
+                        - generic [ref=f10e79]:
+                          - text: 
+                          - link "Server Side Calculator" [ref=f10e80] [cursor=pointer]:
+                            - /url: /apps/server-side-calculator/
+                      - listitem [ref=f10e81]:
+                        - generic [ref=f10e82]:
+                          - text: 
+                          - link "Simple Calculator API" [ref=f10e83] [cursor=pointer]:
+                            - /url: /apps/calculator-api/
+                      - listitem [ref=f10e84]:
+                        - generic [ref=f10e85]:
+                          - text: 
+                          - link "Text Transformer" [ref=f10e86] [cursor=pointer]:
+                            - /url: /apps/text-transformer/
+                      - listitem [ref=f10e87]:
+                        - generic [ref=f10e88]:
+                          - text: 
+                          - link "Cookie Controlled Login" [ref=f10e89] [cursor=pointer]:
+                            - /url: /apps/simulated-login/
+                      - listitem [ref=f10e90]:
+                        - generic [ref=f10e91]:
+                          - text: 
+                          - link "Numbers to Text" [ref=f10e92] [cursor=pointer]:
+                            - /url: /apps/numbers-to-text/
+                      - listitem [ref=f10e93]:
+                        - generic [ref=f10e94]:
+                          - text: 
+                          - link "Note Taker" [ref=f10e95] [cursor=pointer]:
+                            - /url: /apps/note-taker/
+                      - listitem [ref=f10e96]:
+                        - generic [ref=f10e97]:
+                          - text: 
+                          - link "E-Primer" [ref=f10e98] [cursor=pointer]:
+                            - /url: /apps/e-primer/
+                      - listitem [ref=f10e99]:
+                        - generic [ref=f10e100]:
+                          - text: 
+                          - link "Simple TODO List" [ref=f10e101] [cursor=pointer]:
+                            - /url: /apps/simple-todo-list/
+                  - listitem [ref=f10e102]:
+                    - generic [ref=f10e103]:
+                      - text: 
+                      - link "Fun and Games" [ref=f10e104] [cursor=pointer]:
+                        - /url: /fun-and-games/
+                    - text:             
+                  - listitem [ref=f10e105]:
+                    - generic [ref=f10e106]:
+                      - text: 
+                      - link "Tools" [ref=f10e107] [cursor=pointer]:
+                        - /url: /tools/
+                    - text:   
+                  - listitem [ref=f10e108]:
+                    - generic [ref=f10e109]:
+                      - text: 
+                      - link "Challenges" [ref=f10e110] [cursor=pointer]:
+                        - /url: /challenges/
+                    - text:             
+                  - listitem [ref=f10e111]:
+                    - generic [ref=f10e112]:
+                      - text: 
+                      - link "Reference Information and Tutorials" [ref=f10e113] [cursor=pointer]:
+                        - /url: /reference/
+                    - text:   
+      - complementary [ref=f10e114]:
+        - generic [ref=f10e116]:
+          - paragraph [ref=f10e117]: Support this site by joining our Patreon. As little as $1 a month, and you receive exclusive content, ebooks and videos.
+          - paragraph [ref=f10e118]:
+            - link "Learn More" [ref=f10e119] [cursor=pointer]:
+              - /url: https://patreon.com/eviltester
+        - generic [ref=f10e120]:
+          - paragraph [ref=f10e121]: Tag Cloud
+          - list [ref=f10e122]:
+            - listitem [ref=f10e123]:
+              - link "AI 1" [ref=f10e124] [cursor=pointer]:
+                - /url: /tags/ai/
+                - text: AI
+                - generic [ref=f10e125]: "1"
+            - listitem [ref=f10e126]:
+              - link "Alerts 2" [ref=f10e127] [cursor=pointer]:
+                - /url: /tags/alerts/
+                - text: Alerts
+                - generic [ref=f10e128]: "2"
+            - listitem [ref=f10e129]:
+              - link "API 21" [ref=f10e130] [cursor=pointer]:
+                - /url: /tags/api/
+                - text: API
+                - generic [ref=f10e131]: "21"
+            - listitem [ref=f10e132]:
+              - link "Attributes 2" [ref=f10e133] [cursor=pointer]:
+                - /url: /tags/attributes/
+                - text: Attributes
+                - generic [ref=f10e134]: "2"
+            - listitem [ref=f10e135]:
+              - link "Authentication 3" [ref=f10e136] [cursor=pointer]:
+                - /url: /tags/authentication/
+                - text: Authentication
+                - generic [ref=f10e137]: "3"
+            - listitem [ref=f10e138]:
+              - link "Automating 3" [ref=f10e139] [cursor=pointer]:
+                - /url: /tags/automating/
+                - text: Automating
+                - generic [ref=f10e140]: "3"
+            - listitem [ref=f10e141]:
+              - link "Canvas 3" [ref=f10e142] [cursor=pointer]:
+                - /url: /tags/canvas/
+                - text: Canvas
+                - generic [ref=f10e143]: "3"
+            - listitem [ref=f10e144]:
+              - link "Components 1" [ref=f10e145] [cursor=pointer]:
+                - /url: /tags/components/
+                - text: Components
+                - generic [ref=f10e146]: "1"
+            - listitem [ref=f10e147]:
+              - link "Cookies 3" [ref=f10e148] [cursor=pointer]:
+                - /url: /tags/cookies/
+                - text: Cookies
+                - generic [ref=f10e149]: "3"
+            - listitem [ref=f10e150]:
+              - link "CSS 4" [ref=f10e151] [cursor=pointer]:
+                - /url: /tags/css/
+                - text: CSS
+                - generic [ref=f10e152]: "4"
+            - listitem [ref=f10e153]:
+              - link "Elements 20" [ref=f10e154] [cursor=pointer]:
+                - /url: /tags/elements/
+                - text: Elements
+                - generic [ref=f10e155]: "20"
+            - listitem [ref=f10e156]:
+              - link "Errors 4" [ref=f10e157] [cursor=pointer]:
+                - /url: /tags/errors/
+                - text: Errors
+                - generic [ref=f10e158]: "4"
+            - listitem [ref=f10e159]:
+              - link "Exploratory Testing 74" [ref=f10e160] [cursor=pointer]:
+                - /url: /tags/exploratory-testing/
+                - text: Exploratory Testing
+                - generic [ref=f10e161]: "74"
+            - listitem [ref=f10e162]:
+              - link "Files 2" [ref=f10e163] [cursor=pointer]:
+                - /url: /tags/files/
+                - text: Files
+                - generic [ref=f10e164]: "2"
+            - listitem [ref=f10e165]:
+              - link "Forms 8" [ref=f10e166] [cursor=pointer]:
+                - /url: /tags/forms/
+                - text: Forms
+                - generic [ref=f10e167]: "8"
+            - listitem [ref=f10e168]:
+              - link "Frames 4" [ref=f10e169] [cursor=pointer]:
+                - /url: /tags/frames/
+                - text: Frames
+                - generic [ref=f10e170]: "4"
+            - listitem [ref=f10e171]:
+              - link "Games 18" [ref=f10e172] [cursor=pointer]:
+                - /url: /tags/games/
+                - text: Games
+                - generic [ref=f10e173]: "18"
+            - listitem [ref=f10e174]:
+              - link "Hover 1" [ref=f10e175] [cursor=pointer]:
+                - /url: /tags/hover/
+                - text: Hover
+                - generic [ref=f10e176]: "1"
+            - listitem [ref=f10e177]:
+              - link "HTML 1" [ref=f10e178] [cursor=pointer]:
+                - /url: /tags/html/
+                - text: HTML
+                - generic [ref=f10e179]: "1"
+            - listitem [ref=f10e180]:
+              - link "HTTP 1" [ref=f10e181] [cursor=pointer]:
+                - /url: /tags/http/
+                - text: HTTP
+                - generic [ref=f10e182]: "1"
+            - listitem [ref=f10e183]:
+              - link "Images 1" [ref=f10e184] [cursor=pointer]:
+                - /url: /tags/images/
+                - text: Images
+                - generic [ref=f10e185]: "1"
+            - listitem [ref=f10e186]:
+              - link "Input 7" [ref=f10e187] [cursor=pointer]:
+                - /url: /tags/input/
+                - text: Input
+                - generic [ref=f10e188]: "7"
+            - listitem [ref=f10e189]:
+              - link "Interaction 49" [ref=f10e190] [cursor=pointer]:
+                - /url: /tags/interaction/
+                - text: Interaction
+                - generic [ref=f10e191]: "49"
+            - listitem [ref=f10e192]:
+              - link "Java 1" [ref=f10e193] [cursor=pointer]:
+                - /url: /tags/java/
+                - text: Java
+                - generic [ref=f10e194]: "1"
+            - listitem [ref=f10e195]:
+              - link "JavaScript 63" [ref=f10e196] [cursor=pointer]:
+                - /url: /tags/javascript/
+                - text: JavaScript
+                - generic [ref=f10e197]: "63"
+            - listitem [ref=f10e198]:
+              - link "JSON 1" [ref=f10e199] [cursor=pointer]:
+                - /url: /tags/json/
+                - text: JSON
+                - generic [ref=f10e200]: "1"
+            - listitem [ref=f10e201]:
+              - link "Local Storage 1" [ref=f10e202] [cursor=pointer]:
+                - /url: /tags/local-storage/
+                - text: Local Storage
+                - generic [ref=f10e203]: "1"
+            - listitem [ref=f10e204]:
+              - link "Locators 19" [ref=f10e205] [cursor=pointer]:
+                - /url: /tags/locators/
+                - text: Locators
+                - generic [ref=f10e206]: "19"
+            - listitem [ref=f10e207]:
+              - link "Mobile 1" [ref=f10e208] [cursor=pointer]:
+                - /url: /tags/mobile/
+                - text: Mobile
+                - generic [ref=f10e209]: "1"
+            - listitem [ref=f10e210]:
+              - link "Navigation 7" [ref=f10e211] [cursor=pointer]:
+                - /url: /tags/navigation/
+                - text: Navigation
+                - generic [ref=f10e212]: "7"
+            - listitem [ref=f10e213]:
+              - link "Randomness 1" [ref=f10e214] [cursor=pointer]:
+                - /url: /tags/randomness/
+                - text: Randomness
+                - generic [ref=f10e215]: "1"
+            - listitem [ref=f10e216]:
+              - link "Security Testing 1" [ref=f10e217] [cursor=pointer]:
+                - /url: /tags/security-testing/
+                - text: Security Testing
+                - generic [ref=f10e218]: "1"
+            - listitem [ref=f10e219]:
+              - link "Shadow Dom 3" [ref=f10e220] [cursor=pointer]:
+                - /url: /tags/shadow-dom/
+                - text: Shadow Dom
+                - generic [ref=f10e221]: "3"
+            - listitem [ref=f10e222]:
+              - link "Storage 5" [ref=f10e223] [cursor=pointer]:
+                - /url: /tags/storage/
+                - text: Storage
+                - generic [ref=f10e224]: "5"
+            - listitem [ref=f10e225]:
+              - link "Synchronization 12" [ref=f10e226] [cursor=pointer]:
+                - /url: /tags/synchronization/
+                - text: Synchronization
+                - generic [ref=f10e227]: "12"
+            - listitem [ref=f10e228]:
+              - link "Table 2" [ref=f10e229] [cursor=pointer]:
+                - /url: /tags/table/
+                - text: Table
+                - generic [ref=f10e230]: "2"
+            - listitem [ref=f10e231]:
+              - link "Test Data 2" [ref=f10e232] [cursor=pointer]:
+                - /url: /tags/test-data/
+                - text: Test Data
+                - generic [ref=f10e233]: "2"
+            - listitem [ref=f10e234]:
+              - link "Text 4" [ref=f10e235] [cursor=pointer]:
+                - /url: /tags/text/
+                - text: Text
+                - generic [ref=f10e236]: "4"
+            - listitem [ref=f10e237]:
+              - link "Tool 3" [ref=f10e238] [cursor=pointer]:
+                - /url: /tags/tool/
+                - text: Tool
+                - generic [ref=f10e239]: "3"
+            - listitem [ref=f10e240]:
+              - link "WebDriver 2" [ref=f10e241] [cursor=pointer]:
+                - /url: /tags/webdriver/
+                - text: WebDriver
+                - generic [ref=f10e242]: "2"
+        - generic [ref=f10e243]:
+          - paragraph [ref=f10e244]: Categories
+          - list [ref=f10e245]:
+            - listitem [ref=f10e246]:
+              - link "Advanced 11" [ref=f10e247] [cursor=pointer]:
+                - /url: /categories/advanced/
+                - text: Advanced
+                - generic [ref=f10e248]: "11"
+            - listitem [ref=f10e249]:
+              - link "Basics 22" [ref=f10e250] [cursor=pointer]:
+                - /url: /categories/basics/
+                - text: Basics
+                - generic [ref=f10e251]: "22"
+            - listitem [ref=f10e252]:
+              - link "Buggy Game 17" [ref=f10e253] [cursor=pointer]:
+                - /url: /categories/buggy-game/
+                - text: Buggy Game
+                - generic [ref=f10e254]: "17"
+            - listitem [ref=f10e255]:
+              - link "Challenges 12" [ref=f10e256] [cursor=pointer]:
+                - /url: /categories/challenges/
+                - text: Challenges
+                - generic [ref=f10e257]: "12"
+            - listitem [ref=f10e258]:
+              - link "Fun and Games 19" [ref=f10e259] [cursor=pointer]:
+                - /url: /categories/fun-and-games/
+                - text: Fun and Games
+                - generic [ref=f10e260]: "19"
+            - listitem [ref=f10e261]:
+              - link "Intermediate 17" [ref=f10e262] [cursor=pointer]:
+                - /url: /categories/intermediate/
+                - text: Intermediate
+                - generic [ref=f10e263]: "17"
+            - listitem [ref=f10e264]:
+              - link "Micro App 33" [ref=f10e265] [cursor=pointer]:
+                - /url: /categories/micro-app/
+                - text: Micro App
+                - generic [ref=f10e266]: "33"
+            - listitem [ref=f10e267]:
+              - link "Reference 6" [ref=f10e268] [cursor=pointer]:
+                - /url: /categories/reference/
+                - text: Reference
+                - generic [ref=f10e269]: "6"
+            - listitem [ref=f10e270]:
+              - link "Tool 3" [ref=f10e271] [cursor=pointer]:
+                - /url: /categories/tool/
+                - text: Tool
+                - generic [ref=f10e272]: "3"
+      - main [ref=f10e273]:
+        - generic [ref=f10e274]:
+          - heading "Apps" [level=1] [ref=f10e275]
+          - generic [ref=f10e276]:
+            - paragraph [ref=f10e277]: Micro Apps for more interaction and testing opportunities.
+            - paragraph [ref=f10e278]: These pages are also suitable for exploratory testing and longer exercises.
+          - paragraph [ref=f10e279]: Each application uses a few simple concepts to encourage a deep dive without many distractions.
+          - paragraph [ref=f10e280]: "For each of the applications I recommend:"
+          - list [ref=f10e281]:
+            - listitem [ref=f10e282]: investigate the application from general usage
+            - listitem [ref=f10e283]: revisit the application multiple times, and each time adopt a new perspective or practice a new technique or approach
+          - group [ref=f10e284]:
+            - generic "More Usage Hints" [ref=f10e285] [cursor=pointer]
+          - generic [ref=f10e286]:
+            - separator [ref=f10e287]
+            - generic [ref=f10e288]:
+              - paragraph [ref=f10e289]:
+                - link "Triangle" [ref=f10e290] [cursor=pointer]:
+                  - /url: /apps/triangle/
+              - generic [ref=f10e291]:
+                - link [ref=f10e293] [cursor=pointer]:
+                  - /url: /apps/triangle/
+                  - img "Triangle" [ref=f10e294]
+                - paragraph [ref=f10e296]: Input lengths of a triangle to find out if it is equilateral, isosceles or scalene.
+            - generic [ref=f10e297]:
+              - paragraph [ref=f10e298]:
+                - link "7 Char Val" [ref=f10e299] [cursor=pointer]:
+                  - /url: /apps/7-char-val/
+              - generic [ref=f10e300]:
+                - link [ref=f10e302] [cursor=pointer]:
+                  - /url: /apps/7-char-val/
+                  - img "7 Char Val" [ref=f10e303]
+                - paragraph [ref=f10e305]: This is a simple JavaScript powered validation input.
+            - generic [ref=f10e306]:
+              - paragraph [ref=f10e307]:
+                - link "Basic Shopping Cart" [ref=f10e308] [cursor=pointer]:
+                  - /url: /apps/basiccart/
+              - generic [ref=f10e309]:
+                - link [ref=f10e311] [cursor=pointer]:
+                  - /url: /apps/basiccart/
+                  - img "Basic Shopping Cart" [ref=f10e312]
+                - paragraph [ref=f10e314]: A Server based test shopping cart with API.
+            - generic [ref=f10e315]:
+              - paragraph [ref=f10e316]:
+                - link "AI Chat Bot" [ref=f10e317] [cursor=pointer]:
+                  - /url: /apps/ai-chat-bot/
+              - paragraph [ref=f10e318]: A Chrome Prompt API chatbot that answers questions about the Shopping Cart products, API, and checkout process.
+            - generic [ref=f10e319]:
+              - paragraph [ref=f10e320]:
+                - link "Button Calculator" [ref=f10e321] [cursor=pointer]:
+                  - /url: /apps/button-calculator/
+              - generic [ref=f10e322]:
+                - link [ref=f10e324] [cursor=pointer]:
+                  - /url: /apps/button-calculator/
+                  - img "Button Calculator" [ref=f10e325]
+                - paragraph [ref=f10e327]: This is a simple button based calculator. Automate or explore for state based issues.
+            - generic [ref=f10e328]:
+              - paragraph [ref=f10e329]:
+                - link "Canvas Draw" [ref=f10e330] [cursor=pointer]:
+                  - /url: /apps/canvas-draw/
+              - generic [ref=f10e331]:
+                - link [ref=f10e333] [cursor=pointer]:
+                  - /url: /apps/canvas-draw/
+                  - img "Canvas Draw" [ref=f10e334]
+                - paragraph [ref=f10e336]: A canvas drawing tool, with a basic GUI interface and small set of drawing commands.
+            - generic [ref=f10e337]:
+              - paragraph [ref=f10e338]:
+                - link "Canvas Scribble" [ref=f10e339] [cursor=pointer]:
+                  - /url: /apps/canvas-scribble/
+              - generic [ref=f10e340]:
+                - link [ref=f10e342] [cursor=pointer]:
+                  - /url: /apps/canvas-scribble/
+                  - img "Canvas Scribble" [ref=f10e343]
+                - paragraph [ref=f10e345]: Use the mouse and you can draw in the plain canvas.
+            - generic [ref=f10e346]:
+              - paragraph [ref=f10e347]:
+                - link "Validated Client Server Form" [ref=f10e348] [cursor=pointer]:
+                  - /url: /apps/client-server-form-validation/
+              - generic [ref=f10e349]:
+                - link [ref=f10e351] [cursor=pointer]:
+                  - /url: /apps/client-server-form-validation/
+                  - img "Validated Client Server Form" [ref=f10e352]
+                - paragraph [ref=f10e354]: This page has input validation using JavaScript, HTML5 and there is associated server side validation.
+            - generic [ref=f10e355]:
+              - paragraph [ref=f10e356]:
+                - link "HTML Table Generator" [ref=f10e357] [cursor=pointer]:
+                  - /url: /apps/html-table-generator/
+              - generic [ref=f10e358]:
+                - link [ref=f10e360] [cursor=pointer]:
+                  - /url: /apps/html-table-generator/
+                  - img "HTML Table Generator" [ref=f10e361]
+                - paragraph [ref=f10e363]: Generate the HTML for a table and copy to clipboard
+            - generic [ref=f10e364]:
+              - paragraph [ref=f10e365]:
+                - link "Grammar Data Gen" [ref=f10e366] [cursor=pointer]:
+                  - /url: /apps/grammar-data-gen/
+              - paragraph [ref=f10e367]: Buggy grammar-driven text generation apps for practicing exploratory testing and browser automation.
+            - generic [ref=f10e368]:
+              - paragraph [ref=f10e369]:
+                - link "Countdown Timer" [ref=f10e370] [cursor=pointer]:
+                  - /url: /apps/countdown-timer/
+              - generic [ref=f10e371]:
+                - link [ref=f10e373] [cursor=pointer]:
+                  - /url: /apps/countdown-timer/
+                  - img "Countdown Timer" [ref=f10e374]
+                - paragraph [ref=f10e376]: A configurable countdown timer written in JavaScript
+            - generic [ref=f10e377]:
+              - paragraph [ref=f10e378]:
+                - link "Server Side Calculator" [ref=f10e379] [cursor=pointer]:
+                  - /url: /apps/server-side-calculator/
+              - generic [ref=f10e380]:
+                - link [ref=f10e382] [cursor=pointer]:
+                  - /url: /apps/server-side-calculator/
+                  - img "Server Side Calculator" [ref=f10e383]
+                - paragraph [ref=f10e385]: A simple calculator UI submits form to server to calculate the result.
+            - generic [ref=f10e386]:
+              - paragraph [ref=f10e387]:
+                - link "Simple Calculator API" [ref=f10e388] [cursor=pointer]:
+                  - /url: /apps/calculator-api/
+              - generic [ref=f10e389]:
+                - link [ref=f10e391] [cursor=pointer]:
+                  - /url: /apps/calculator-api/
+                  - img "Simple Calculator API" [ref=f10e392]
+                - paragraph [ref=f10e394]: A simple calculator API
+            - generic [ref=f10e395]:
+              - paragraph [ref=f10e396]:
+                - link "Text Transformer" [ref=f10e397] [cursor=pointer]:
+                  - /url: /apps/text-transformer/
+              - generic [ref=f10e398]:
+                - link [ref=f10e400] [cursor=pointer]:
+                  - /url: /apps/text-transformer/
+                  - img "Text Transformer" [ref=f10e401]
+                - paragraph [ref=f10e403]: Transform input text into different formats
+            - generic [ref=f10e404]:
+              - paragraph [ref=f10e405]:
+                - link "Cookie Controlled Login" [ref=f10e406] [cursor=pointer]:
+                  - /url: /apps/simulated-login/
+              - generic [ref=f10e407]:
+                - link [ref=f10e409] [cursor=pointer]:
+                  - /url: /apps/simulated-login/
+                  - img "Cookie Controlled Login" [ref=f10e410]
+                - paragraph [ref=f10e412]: Cookies are often used to contain session information.
+            - generic [ref=f10e413]:
+              - paragraph [ref=f10e414]:
+                - link "Numbers to Text" [ref=f10e415] [cursor=pointer]:
+                  - /url: /apps/numbers-to-text/
+              - generic [ref=f10e416]:
+                - link [ref=f10e418] [cursor=pointer]:
+                  - /url: /apps/numbers-to-text/
+                  - img "Numbers to Text" [ref=f10e419]
+                - paragraph [ref=f10e421]: Convert numbers into textual representation
+            - generic [ref=f10e422]:
+              - paragraph [ref=f10e423]:
+                - link "Note Taker" [ref=f10e424] [cursor=pointer]:
+                  - /url: /apps/note-taker/
+              - generic [ref=f10e425]:
+                - link [ref=f10e427] [cursor=pointer]:
+                  - /url: /apps/note-taker/
+                  - img "Note Taker" [ref=f10e428]
+                - paragraph [ref=f10e430]: An example note-taking application using local and session storage, written in JavaScript.
+            - generic [ref=f10e431]:
+              - paragraph [ref=f10e432]:
+                - link "E-Primer" [ref=f10e433] [cursor=pointer]:
+                  - /url: /apps/e-primer/
+              - paragraph [ref=f10e434]: An e-prime checking tool for exploring text analysis, input handling, and browser-based JavaScript processing.
+            - generic [ref=f10e435]:
+              - paragraph [ref=f10e436]:
+                - link "Simple TODO List" [ref=f10e437] [cursor=pointer]:
+                  - /url: /apps/simple-todo-list/
+              - generic [ref=f10e438]:
+                - link [ref=f10e440] [cursor=pointer]:
+                  - /url: /apps/simple-todo-list/
+                  - img "Simple TODO List" [ref=f10e441]
+                - paragraph [ref=f10e443]: A local-storage TODO application with user and admin flows for practicing stateful browser testing.
+    - contentinfo [ref=f10e444]:
+      - generic [ref=f10e445]:
+        - paragraph [ref=f10e446]:
+          - text: Help keep this site free by joining our
+          - link "Patreon Membership site" [ref=f10e447] [cursor=pointer]:
+            - /url: https://patreon.com/eviltester
+          - text: . Membership costs as little as $1 a month and includes access to exclusive
+          - link "e-books and online training courses" [ref=f10e448] [cursor=pointer]:
+            - /url: https://www.testerhq.com/
+          - text: .
+        - paragraph [ref=f10e449]:
+          - text: If you'd like to see your advertising message here or learn about corporate sponsorship then
+          - link "Contact Us" [ref=f10e450] [cursor=pointer]:
+            - /url: https://linkedin.com/in/eviltester
+          - text: .
+      - generic [ref=f10e452]:
+        - list [ref=f10e454]:
+          - listitem "Twitter" [ref=f10e455]:
+            - link "Twitter" [ref=f10e456] [cursor=pointer]:
+              - /url: https://twitter.com/eviltester
+              - generic [ref=f10e457]: 
+          - listitem "LinkedIn" [ref=f10e458]:
+            - link "LinkedIn" [ref=f10e459] [cursor=pointer]:
+              - /url: https://linkedin.com/in/eviltester
+              - generic [ref=f10e460]: 
+        - list [ref=f10e462]:
+          - listitem "GitHub" [ref=f10e463]:
+            - link "GitHub" [ref=f10e464] [cursor=pointer]:
+              - /url: https://github.com/eviltester
+              - generic [ref=f10e465]: 
+        - generic [ref=f10e466]:
+          - generic [ref=f10e467]: © 2025–2026 Compendium Developments Ltd
+          - link "Privacy Policy" [ref=f10e469] [cursor=pointer]:
+            - /url: https://www.eviltester.com/page/privacy/
