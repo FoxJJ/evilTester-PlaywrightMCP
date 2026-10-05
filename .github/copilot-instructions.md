@@ -1,0 +1,1 @@
+For tasks in this repository, assume the target site is `https://testpages.eviltester.com` unless the user specifies otherwise.

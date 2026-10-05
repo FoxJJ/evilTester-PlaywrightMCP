@@ -1,0 +1,479 @@
+- generic [ref=e1]:
+  - banner [ref=e2]:
+    - navigation [ref=e3]:
+      - generic [ref=e4]:
+        - link [ref=e5] [cursor=pointer]:
+          - /url: /
+          - img [ref=e7]:
+            - generic "Test Pages" [ref=e10]
+            - generic "PRACTICE SOFTWARE TESTING" [ref=e11]
+        - list [ref=e13]:
+          - listitem [ref=e14]:
+            - link "Pages" [ref=e15] [cursor=pointer]:
+              - /url: /pages/
+          - listitem [ref=e16]:
+            - link "Apps" [ref=e17] [cursor=pointer]:
+              - /url: /apps/
+          - listitem [ref=e18]:
+            - link "Fun and Games" [ref=e19] [cursor=pointer]:
+              - /url: /fun-and-games/
+          - listitem [ref=e20]:
+            - link "Tools" [ref=e21] [cursor=pointer]:
+              - /url: /tools/
+          - listitem [ref=e22]:
+            - link "Challenges" [ref=e23] [cursor=pointer]:
+              - /url: /challenges/
+          - listitem [ref=e24]:
+            - link "Reference Information and Tutorials" [ref=e25] [cursor=pointer]:
+              - /url: /reference/
+    - generic [ref=e26]:
+      - text: Support this site by joining our Patreon. For as little as $1 a month you receive exclusive ad-free content, ebooks and online training courses. —
+      - link "Learn more" [ref=e27] [cursor=pointer]:
+        - /url: https://patreon.com/eviltester
+  - generic [ref=e28]:
+    - generic [ref=e30]:
+      - complementary [ref=e31]:
+        - generic [ref=e32]:
+          - text: 
+          - navigation [ref=e33]:
+            - list [ref=e34]:
+              - listitem [ref=e35]:
+                - link "Practice Pages" [ref=e36] [cursor=pointer]:
+                  - /url: /
+                - list [ref=e37]:
+                  - listitem [ref=e38]:
+                    - generic [ref=e39]:
+                      - text: 
+                      - link "Pages" [ref=e40] [cursor=pointer]:
+                        - /url: /pages/
+                    - text:                                                                   
+                  - listitem [ref=e41]:
+                    - generic [ref=e42]:
+                      - text: 
+                      - link "Apps" [ref=e43] [cursor=pointer]:
+                        - /url: /apps/
+                    - text:                   
+                  - listitem [ref=e44]:
+                    - generic [ref=e45]:
+                      - text: 
+                      - link "Fun and Games" [ref=e46] [cursor=pointer]:
+                        - /url: /fun-and-games/
+                    - text:             
+                  - listitem [ref=e47]:
+                    - generic [ref=e48]:
+                      - text: 
+                      - link "Tools" [ref=e49] [cursor=pointer]:
+                        - /url: /tools/
+                    - text:   
+                  - listitem [ref=e50]:
+                    - generic [ref=e51]:
+                      - text: 
+                      - link "Challenges" [ref=e52] [cursor=pointer]:
+                        - /url: /challenges/
+                    - list [ref=e53]:
+                      - listitem [ref=e54]:
+                        - generic [ref=e55]:
+                          - text: 
+                          - link "Locator Challenges" [ref=e56] [cursor=pointer]:
+                            - /url: /challenges/locators/
+                        - text:  
+                      - listitem [ref=e57]:
+                        - generic [ref=e58]:
+                          - text: 
+                          - link "Synchronization Challenges" [ref=e59] [cursor=pointer]:
+                            - /url: /challenges/synchronization/
+                        - list [ref=e60]:
+                          - listitem [ref=e61]:
+                            - generic [ref=e62]:
+                              - text: 
+                              - link "Auto Grow Button" [ref=e63] [cursor=pointer]:
+                                - /url: /challenges/synchronization/auto-grow-button/
+                          - listitem [ref=e64]:
+                            - generic [ref=e65]:
+                              - text: 
+                              - link "Dynamic Buttons 01" [ref=e66] [cursor=pointer]:
+                                - /url: /challenges/synchronization/dynamic-buttons-01/
+                            - list [ref=e67]:
+                              - listitem [ref=e68]:
+                                - link "Instructions" [ref=e70] [cursor=pointer]:
+                                  - /url: /challenges/synchronization/dynamic-buttons-01/simple-dynamic-buttons-instructions/
+                          - listitem [ref=e71]:
+                            - generic [ref=e72]:
+                              - text: 
+                              - link "Dynamic Buttons 02" [ref=e73] [cursor=pointer]:
+                                - /url: /challenges/synchronization/dynamic-buttons-02/
+                          - listitem [ref=e74]:
+                            - generic [ref=e75]:
+                              - text: 
+                              - link "Dynamic Buttons 03" [ref=e76] [cursor=pointer]:
+                                - /url: /challenges/synchronization/dynamic-buttons-03/
+                          - listitem [ref=e77]:
+                            - generic [ref=e78]:
+                              - text: 
+                              - link "Dynamic Buttons 04" [ref=e79] [cursor=pointer]:
+                                - /url: /challenges/synchronization/dynamic-buttons-04/
+                          - listitem [ref=e80]:
+                            - generic [ref=e81]:
+                              - text: 
+                              - link "Expanding Div" [ref=e82] [cursor=pointer]:
+                                - /url: /challenges/synchronization/expanding-div/
+                          - listitem [ref=e83]:
+                            - generic [ref=e84]:
+                              - text: 
+                              - link "Infinite Scroll" [ref=e85] [cursor=pointer]:
+                                - /url: /challenges/synchronization/infinite-scroll/
+                          - listitem [ref=e86]:
+                            - generic [ref=e87]:
+                              - text: 
+                              - link "Progress Bars" [ref=e88] [cursor=pointer]:
+                                - /url: /challenges/synchronization/progress-bars/
+                          - listitem [ref=e89]:
+                            - generic [ref=e90]:
+                              - text: 
+                              - link "XHTTP Messages" [ref=e91] [cursor=pointer]:
+                                - /url: /challenges/synchronization/xhttp-message-processing/
+                  - listitem [ref=e92]:
+                    - generic [ref=e93]:
+                      - text: 
+                      - link "Reference Information and Tutorials" [ref=e94] [cursor=pointer]:
+                        - /url: /reference/
+                    - text:   
+      - complementary [ref=e95]:
+        - generic [ref=e97]:
+          - paragraph [ref=e98]: Support this site by joining our Patreon. As little as $1 a month, and you receive exclusive content, ebooks and videos.
+          - paragraph [ref=e99]:
+            - link "Learn More" [ref=e100] [cursor=pointer]:
+              - /url: https://patreon.com/eviltester
+        - generic [ref=e101]:
+          - paragraph [ref=e102]: Tag Cloud
+          - list [ref=e103]:
+            - listitem [ref=e104]:
+              - link "AI 1" [ref=e105] [cursor=pointer]:
+                - /url: /tags/ai/
+                - text: AI
+                - generic [ref=e106]: "1"
+            - listitem [ref=e107]:
+              - link "Alerts 2" [ref=e108] [cursor=pointer]:
+                - /url: /tags/alerts/
+                - text: Alerts
+                - generic [ref=e109]: "2"
+            - listitem [ref=e110]:
+              - link "API 21" [ref=e111] [cursor=pointer]:
+                - /url: /tags/api/
+                - text: API
+                - generic [ref=e112]: "21"
+            - listitem [ref=e113]:
+              - link "Attributes 2" [ref=e114] [cursor=pointer]:
+                - /url: /tags/attributes/
+                - text: Attributes
+                - generic [ref=e115]: "2"
+            - listitem [ref=e116]:
+              - link "Authentication 3" [ref=e117] [cursor=pointer]:
+                - /url: /tags/authentication/
+                - text: Authentication
+                - generic [ref=e118]: "3"
+            - listitem [ref=e119]:
+              - link "Automating 3" [ref=e120] [cursor=pointer]:
+                - /url: /tags/automating/
+                - text: Automating
+                - generic [ref=e121]: "3"
+            - listitem [ref=e122]:
+              - link "Canvas 3" [ref=e123] [cursor=pointer]:
+                - /url: /tags/canvas/
+                - text: Canvas
+                - generic [ref=e124]: "3"
+            - listitem [ref=e125]:
+              - link "Components 1" [ref=e126] [cursor=pointer]:
+                - /url: /tags/components/
+                - text: Components
+                - generic [ref=e127]: "1"
+            - listitem [ref=e128]:
+              - link "Cookies 3" [ref=e129] [cursor=pointer]:
+                - /url: /tags/cookies/
+                - text: Cookies
+                - generic [ref=e130]: "3"
+            - listitem [ref=e131]:
+              - link "CSS 4" [ref=e132] [cursor=pointer]:
+                - /url: /tags/css/
+                - text: CSS
+                - generic [ref=e133]: "4"
+            - listitem [ref=e134]:
+              - link "Elements 20" [ref=e135] [cursor=pointer]:
+                - /url: /tags/elements/
+                - text: Elements
+                - generic [ref=e136]: "20"
+            - listitem [ref=e137]:
+              - link "Errors 4" [ref=e138] [cursor=pointer]:
+                - /url: /tags/errors/
+                - text: Errors
+                - generic [ref=e139]: "4"
+            - listitem [ref=e140]:
+              - link "Exploratory Testing 74" [ref=e141] [cursor=pointer]:
+                - /url: /tags/exploratory-testing/
+                - text: Exploratory Testing
+                - generic [ref=e142]: "74"
+            - listitem [ref=e143]:
+              - link "Files 2" [ref=e144] [cursor=pointer]:
+                - /url: /tags/files/
+                - text: Files
+                - generic [ref=e145]: "2"
+            - listitem [ref=e146]:
+              - link "Forms 8" [ref=e147] [cursor=pointer]:
+                - /url: /tags/forms/
+                - text: Forms
+                - generic [ref=e148]: "8"
+            - listitem [ref=e149]:
+              - link "Frames 4" [ref=e150] [cursor=pointer]:
+                - /url: /tags/frames/
+                - text: Frames
+                - generic [ref=e151]: "4"
+            - listitem [ref=e152]:
+              - link "Games 18" [ref=e153] [cursor=pointer]:
+                - /url: /tags/games/
+                - text: Games
+                - generic [ref=e154]: "18"
+            - listitem [ref=e155]:
+              - link "Hover 1" [ref=e156] [cursor=pointer]:
+                - /url: /tags/hover/
+                - text: Hover
+                - generic [ref=e157]: "1"
+            - listitem [ref=e158]:
+              - link "HTML 1" [ref=e159] [cursor=pointer]:
+                - /url: /tags/html/
+                - text: HTML
+                - generic [ref=e160]: "1"
+            - listitem [ref=e161]:
+              - link "HTTP 1" [ref=e162] [cursor=pointer]:
+                - /url: /tags/http/
+                - text: HTTP
+                - generic [ref=e163]: "1"
+            - listitem [ref=e164]:
+              - link "Images 1" [ref=e165] [cursor=pointer]:
+                - /url: /tags/images/
+                - text: Images
+                - generic [ref=e166]: "1"
+            - listitem [ref=e167]:
+              - link "Input 7" [ref=e168] [cursor=pointer]:
+                - /url: /tags/input/
+                - text: Input
+                - generic [ref=e169]: "7"
+            - listitem [ref=e170]:
+              - link "Interaction 49" [ref=e171] [cursor=pointer]:
+                - /url: /tags/interaction/
+                - text: Interaction
+                - generic [ref=e172]: "49"
+            - listitem [ref=e173]:
+              - link "Java 1" [ref=e174] [cursor=pointer]:
+                - /url: /tags/java/
+                - text: Java
+                - generic [ref=e175]: "1"
+            - listitem [ref=e176]:
+              - link "JavaScript 63" [ref=e177] [cursor=pointer]:
+                - /url: /tags/javascript/
+                - text: JavaScript
+                - generic [ref=e178]: "63"
+            - listitem [ref=e179]:
+              - link "JSON 1" [ref=e180] [cursor=pointer]:
+                - /url: /tags/json/
+                - text: JSON
+                - generic [ref=e181]: "1"
+            - listitem [ref=e182]:
+              - link "Local Storage 1" [ref=e183] [cursor=pointer]:
+                - /url: /tags/local-storage/
+                - text: Local Storage
+                - generic [ref=e184]: "1"
+            - listitem [ref=e185]:
+              - link "Locators 19" [ref=e186] [cursor=pointer]:
+                - /url: /tags/locators/
+                - text: Locators
+                - generic [ref=e187]: "19"
+            - listitem [ref=e188]:
+              - link "Mobile 1" [ref=e189] [cursor=pointer]:
+                - /url: /tags/mobile/
+                - text: Mobile
+                - generic [ref=e190]: "1"
+            - listitem [ref=e191]:
+              - link "Navigation 7" [ref=e192] [cursor=pointer]:
+                - /url: /tags/navigation/
+                - text: Navigation
+                - generic [ref=e193]: "7"
+            - listitem [ref=e194]:
+              - link "Randomness 1" [ref=e195] [cursor=pointer]:
+                - /url: /tags/randomness/
+                - text: Randomness
+                - generic [ref=e196]: "1"
+            - listitem [ref=e197]:
+              - link "Security Testing 1" [ref=e198] [cursor=pointer]:
+                - /url: /tags/security-testing/
+                - text: Security Testing
+                - generic [ref=e199]: "1"
+            - listitem [ref=e200]:
+              - link "Shadow Dom 3" [ref=e201] [cursor=pointer]:
+                - /url: /tags/shadow-dom/
+                - text: Shadow Dom
+                - generic [ref=e202]: "3"
+            - listitem [ref=e203]:
+              - link "Storage 5" [ref=e204] [cursor=pointer]:
+                - /url: /tags/storage/
+                - text: Storage
+                - generic [ref=e205]: "5"
+            - listitem [ref=e206]:
+              - link "Synchronization 12" [ref=e207] [cursor=pointer]:
+                - /url: /tags/synchronization/
+                - text: Synchronization
+                - generic [ref=e208]: "12"
+            - listitem [ref=e209]:
+              - link "Table 2" [ref=e210] [cursor=pointer]:
+                - /url: /tags/table/
+                - text: Table
+                - generic [ref=e211]: "2"
+            - listitem [ref=e212]:
+              - link "Test Data 2" [ref=e213] [cursor=pointer]:
+                - /url: /tags/test-data/
+                - text: Test Data
+                - generic [ref=e214]: "2"
+            - listitem [ref=e215]:
+              - link "Text 4" [ref=e216] [cursor=pointer]:
+                - /url: /tags/text/
+                - text: Text
+                - generic [ref=e217]: "4"
+            - listitem [ref=e218]:
+              - link "Tool 3" [ref=e219] [cursor=pointer]:
+                - /url: /tags/tool/
+                - text: Tool
+                - generic [ref=e220]: "3"
+            - listitem [ref=e221]:
+              - link "WebDriver 2" [ref=e222] [cursor=pointer]:
+                - /url: /tags/webdriver/
+                - text: WebDriver
+                - generic [ref=e223]: "2"
+        - generic [ref=e224]:
+          - paragraph [ref=e225]: Categories
+          - list [ref=e226]:
+            - listitem [ref=e227]:
+              - link "Advanced 11" [ref=e228] [cursor=pointer]:
+                - /url: /categories/advanced/
+                - text: Advanced
+                - generic [ref=e229]: "11"
+            - listitem [ref=e230]:
+              - link "Basics 22" [ref=e231] [cursor=pointer]:
+                - /url: /categories/basics/
+                - text: Basics
+                - generic [ref=e232]: "22"
+            - listitem [ref=e233]:
+              - link "Buggy Game 17" [ref=e234] [cursor=pointer]:
+                - /url: /categories/buggy-game/
+                - text: Buggy Game
+                - generic [ref=e235]: "17"
+            - listitem [ref=e236]:
+              - link "Challenges 12" [ref=e237] [cursor=pointer]:
+                - /url: /categories/challenges/
+                - text: Challenges
+                - generic [ref=e238]: "12"
+            - listitem [ref=e239]:
+              - link "Fun and Games 19" [ref=e240] [cursor=pointer]:
+                - /url: /categories/fun-and-games/
+                - text: Fun and Games
+                - generic [ref=e241]: "19"
+            - listitem [ref=e242]:
+              - link "Intermediate 17" [ref=e243] [cursor=pointer]:
+                - /url: /categories/intermediate/
+                - text: Intermediate
+                - generic [ref=e244]: "17"
+            - listitem [ref=e245]:
+              - link "Micro App 33" [ref=e246] [cursor=pointer]:
+                - /url: /categories/micro-app/
+                - text: Micro App
+                - generic [ref=e247]: "33"
+            - listitem [ref=e248]:
+              - link "Reference 6" [ref=e249] [cursor=pointer]:
+                - /url: /categories/reference/
+                - text: Reference
+                - generic [ref=e250]: "6"
+            - listitem [ref=e251]:
+              - link "Tool 3" [ref=e252] [cursor=pointer]:
+                - /url: /categories/tool/
+                - text: Tool
+                - generic [ref=e253]: "3"
+      - main [ref=e254]:
+        - navigation "breadcrumb" [ref=e255]:
+          - list [ref=e256]:
+            - listitem [ref=e257]:
+              - link "Challenges" [ref=e258] [cursor=pointer]:
+                - /url: /challenges/
+            - listitem [ref=e259]:
+              - text: /
+              - link "Synchronization Challenges" [ref=e260] [cursor=pointer]:
+                - /url: /challenges/synchronization/
+            - listitem [ref=e261]: / Dynamic Buttons 01
+        - generic [ref=e262]:
+          - heading "Dynamic Buttons 01" [level=1] [ref=e263]
+          - generic [ref=e264]:
+            - generic [ref=e265]:
+              - paragraph [ref=e266]: "Tags:"
+              - list [ref=e267]:
+                - listitem [ref=e268]:
+                  - link "Synchronization" [ref=e269] [cursor=pointer]:
+                    - /url: https://testpages.eviltester.com/tags/synchronization/
+                - listitem [ref=e270]:
+                  - link "Interaction" [ref=e271] [cursor=pointer]:
+                    - /url: https://testpages.eviltester.com/tags/interaction/
+                - listitem [ref=e272]:
+                  - link "Exploratory Testing" [ref=e273] [cursor=pointer]:
+                    - /url: https://testpages.eviltester.com/tags/exploratory-testing/
+            - generic [ref=e274]:
+              - paragraph [ref=e275]: "Categories:"
+              - list [ref=e276]:
+                - listitem [ref=e277]:
+                  - link "Challenges" [ref=e278] [cursor=pointer]:
+                    - /url: https://testpages.eviltester.com/categories/challenges/
+          - paragraph [ref=e280]: This page has buttons added by JavaScript. Click each button to reveal the next. There is a delay before the next button appears.
+          - separator [ref=e281]
+          - generic [ref=e282]:
+            - paragraph [ref=e283]: Click all 4 buttons.
+            - generic [ref=e284]:
+              - button "start" [active] [ref=e285] [cursor=pointer]
+              - button "One" [ref=e317] [cursor=pointer]
+              - button "One" [ref=e318] [cursor=pointer]
+            - paragraph
+          - generic [ref=e286]:
+            - separator [ref=e287]
+            - generic [ref=e288]:
+              - paragraph [ref=e289]:
+                - link "Dynamic Buttons 01 - Instructions" [ref=e290] [cursor=pointer]:
+                  - /url: /challenges/synchronization/dynamic-buttons-01/simple-dynamic-buttons-instructions/
+              - paragraph
+    - contentinfo [ref=e291]:
+      - generic [ref=e292]:
+        - paragraph [ref=e293]:
+          - text: Help keep this site free by joining our
+          - link "Patreon Membership site" [ref=e294] [cursor=pointer]:
+            - /url: https://patreon.com/eviltester
+          - text: . Membership costs as little as $1 a month and includes access to exclusive
+          - link "e-books and online training courses" [ref=e295] [cursor=pointer]:
+            - /url: https://www.testerhq.com/
+          - text: .
+        - paragraph [ref=e296]:
+          - text: If you'd like to see your advertising message here or learn about corporate sponsorship then
+          - link "Contact Us" [ref=e297] [cursor=pointer]:
+            - /url: https://linkedin.com/in/eviltester
+          - text: .
+      - generic [ref=e299]:
+        - list [ref=e301]:
+          - listitem "Twitter" [ref=e302]:
+            - link "Twitter" [ref=e303] [cursor=pointer]:
+              - /url: https://twitter.com/eviltester
+              - generic [ref=e304]: 
+          - listitem "LinkedIn" [ref=e305]:
+            - link "LinkedIn" [ref=e306] [cursor=pointer]:
+              - /url: https://linkedin.com/in/eviltester
+              - generic [ref=e307]: 
+        - list [ref=e309]:
+          - listitem "GitHub" [ref=e310]:
+            - link "GitHub" [ref=e311] [cursor=pointer]:
+              - /url: https://github.com/eviltester
+              - generic [ref=e312]: 
+        - generic [ref=e313]:
+          - generic [ref=e314]: © 2025–2026 Compendium Developments Ltd
+          - link "Privacy Policy" [ref=e316] [cursor=pointer]:
+            - /url: https://www.eviltester.com/page/privacy/

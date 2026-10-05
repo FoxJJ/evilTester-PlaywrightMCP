@@ -1,0 +1,75 @@
+- generic [active] [ref=f8e1]:
+  - banner [ref=f8e2]:
+    - navigation [ref=f8e3]:
+      - generic [ref=f8e4]:
+        - link [ref=f8e5] [cursor=pointer]:
+          - /url: /
+          - img [ref=f8e7]:
+            - generic "Test Pages" [ref=f8e10]
+            - generic "PRACTICE SOFTWARE TESTING" [ref=f8e11]
+        - list [ref=f8e13]:
+          - listitem [ref=f8e14]:
+            - link "Pages" [ref=f8e15] [cursor=pointer]:
+              - /url: /pages/
+          - listitem [ref=f8e16]:
+            - link "Apps" [ref=f8e17] [cursor=pointer]:
+              - /url: /apps/
+          - listitem [ref=f8e18]:
+            - link "Fun and Games" [ref=f8e19] [cursor=pointer]:
+              - /url: /fun-and-games/
+          - listitem [ref=f8e20]:
+            - link "Tools" [ref=f8e21] [cursor=pointer]:
+              - /url: /tools/
+          - listitem [ref=f8e22]:
+            - link "Challenges" [ref=f8e23] [cursor=pointer]:
+              - /url: /challenges/
+          - listitem [ref=f8e24]:
+            - link "Reference Information and Tutorials" [ref=f8e25] [cursor=pointer]:
+              - /url: /reference/
+    - generic [ref=f8e26]:
+      - text: Support this site by joining our Patreon. For as little as $1 a month you receive exclusive ad-free content, ebooks and online training courses. —
+      - link "Learn more" [ref=f8e27] [cursor=pointer]:
+        - /url: https://patreon.com/eviltester
+  - generic [ref=f8e28]:
+    - main [ref=f8e29]:
+      - generic [ref=f8e30]:
+        - heading "Not found" [level=1] [ref=f8e31]
+        - paragraph [ref=f8e32]:
+          - text: Oops! This page doesn't exist. Try going back to the
+          - link "home page" [ref=f8e33] [cursor=pointer]:
+            - /url: /
+          - text: .
+    - contentinfo [ref=f8e34]:
+      - generic [ref=f8e35]:
+        - paragraph [ref=f8e36]:
+          - text: Help keep this site free by joining our
+          - link "Patreon Membership site" [ref=f8e37] [cursor=pointer]:
+            - /url: https://patreon.com/eviltester
+          - text: . Membership costs as little as $1 a month and includes access to exclusive
+          - link "e-books and online training courses" [ref=f8e38] [cursor=pointer]:
+            - /url: https://www.testerhq.com/
+          - text: .
+        - paragraph [ref=f8e39]:
+          - text: If you'd like to see your advertising message here or learn about corporate sponsorship then
+          - link "Contact Us" [ref=f8e40] [cursor=pointer]:
+            - /url: https://linkedin.com/in/eviltester
+          - text: .
+      - generic [ref=f8e42]:
+        - list [ref=f8e44]:
+          - listitem "Twitter" [ref=f8e45]:
+            - link "Twitter" [ref=f8e46] [cursor=pointer]:
+              - /url: https://twitter.com/eviltester
+              - generic [ref=f8e47]: 
+          - listitem "LinkedIn" [ref=f8e48]:
+            - link "LinkedIn" [ref=f8e49] [cursor=pointer]:
+              - /url: https://linkedin.com/in/eviltester
+              - generic [ref=f8e50]: 
+        - list [ref=f8e52]:
+          - listitem "GitHub" [ref=f8e53]:
+            - link "GitHub" [ref=f8e54] [cursor=pointer]:
+              - /url: https://github.com/eviltester
+              - generic [ref=f8e55]: 
+        - generic [ref=f8e56]:
+          - generic [ref=f8e57]: © 2025–2026 Compendium Developments Ltd
+          - link "Privacy Policy" [ref=f8e59] [cursor=pointer]:
+            - /url: https://www.eviltester.com/page/privacy/
